@@ -1,0 +1,3959 @@
+
+
+
+
+
+%% 
+@article{Klimas1996,
+    author = {Klimas, A. J. and Vassiliadis, D. and Baker, D. N. and Roberts, D. A.},
+    title = {The organized nonlinear dynamics of the magnetosphere},
+    journal = {Journal of Geophysical Research: Space Physics},
+    volume = {101},
+    number = {A6},
+    pages = {13089-13113},
+    doi = {https://doi.org/10.1029/96JA00563},
+    url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/96JA00563},
+    eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/96JA00563},
+    abstract = {The linear prediction filters computed by Bargatze et al. [1985] have resulted in a turning point in the study of solar wind-magnetosphere coupling. The evolution of the filters with varying activity provides a clear demonstration that the coupling is nonlinear. The filters have thus brought about the end of one era of linear correlative studies and the beginning of a new era of nonlinear dynamical studies. Two separate, but complementary, approaches have emerged in these dynamical studies, analogue modeling and data-based phase space reconstruction. The reconstruction research has evolved from the original autonomous method studies, which were not conclusive, to the more recent input-output studies that are more appropriate for the solar wind-driven magnetosphere and have produced more reliable results. At present it appears that the modeling and reconstruction approaches may be merged in future attempts to produce analogue models directly from the results of the input-output data-based methods. If this can be accomplished, it will constitute a major step forward toward the goal of a low-dimensional analogue model of the magnetospheric dynamics derived directly from data and interpreted in terms of magnetospheric physics. These developments are reviewed in three sections: autonomous data analysis methods, analogue models, and input-output data analysis methods. The introduction provides sufficient information to read each of these sections independently.},
+    year = {1996}
+}
+
+@article{Vassiliadis1990LowdimensionalCI,
+  title={Low-dimensional chaos in magnetospheric activity from AE time series},
+  author={Dimitris Vassiliadis and Abhishek K. Sharma and Timothy E. Eastman and Konstantinos D. Papadopoulos},
+  journal={Geophysical Research Letters},
+  year={1990},
+  volume={17},
+  pages={1841-1844}
+}
+
+@article{Bargatze_1985,
+author = {Bargatze, L. F. and Baker, D. N. and McPherron, R. L. and Hones Jr., E. W.},
+title = {Magnetospheric impulse response for many levels of geomagnetic activity},
+journal = {Journal of Geophysical Research: Space Physics},
+volume = {90},
+number = {A7},
+pages = {6387-6394},
+doi = {https://doi.org/10.1029/JA090iA07p06387},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/JA090iA07p06387},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/JA090iA07p06387},
+abstract = {The temporal relationship between the solar wind and magnetospheric activity has been studied using 34 intervals of high time resolution IMP 8 solar wind data and the corresponding AL auroral activity index. The median values of the AL index for each interval were utilized to rank the intervals according to geomagnetic activity level. The linear prediction filtering technique was then applied to model magnetospheric response as measured by the AL index to the solar wind input function VBs. The linear prediction filtering routine produces a filter of time-lagged response coefficients which estimates the most general linear relationship between the chosen input and output parameters of the magnetospheric system. It is found that the filters are composed of two response pulses speaking at time lags of 20 and 60 min. The amplitude of the 60-min pulse is the larger for moderate activity levels, while the 20-min pulse is the larger for strong activity levels. A possible interpretation is that the 20-min pulse represents magnetospheric activity driven directly by solar wind coupling and that the 60-min pulse represents magnetospheric activity driven by the release of energy previously stored in the magnetotail. If this interpretation is correct, the linear filtering results suggest that both the driven and the unloading models of magnetospheric response are inportant facets of a more comprehensive response model.},
+year = {1985}
+}
+
+
+
+
+@article{McGranaghan_2017a,
+author = {McGranaghan, Ryan M. and Mannucci, Anthony J. and Forsyth, Colin},
+title = {A Comprehensive Analysis of Multiscale Field-Aligned Currents: Characteristics, Controlling Parameters, and Relationships},
+journal = {Journal of Geophysical Research: Space Physics},
+volume = {122},
+number = {12},
+pages = {11,931-11,960},
+keywords = {multiscale, field-aligned currents, Swarm, AMPERE, magnetosphere-ionosphere coupling},
+doi = {https://doi.org/10.1002/2017JA024742},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2017JA024742},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/2017JA024742},
+abstract = {Abstract We explore the characteristics, controlling parameters, and relationships of multiscale field-aligned currents (FACs) using a rigorous, comprehensive, and cross-platform analysis. Our unique approach combines FAC data from the Swarm satellites and the Advanced Magnetosphere and Planetary Electrodynamics Response Experiment (AMPERE) to create a database of small-scale (∼10–150 km, <1° latitudinal width), mesoscale (∼150–250 km, 1–2° latitudinal width), and large-scale (>250 km) FACs. We examine these data for the repeatable behavior of FACs across scales (i.e., the characteristics), the dependence on the interplanetary magnetic field orientation, and the degree to which each scale “departs” from nominal large-scale specification. We retrieve new information by utilizing magnetic latitude and local time dependence, correlation analyses, and quantification of the departure of smaller from larger scales. We find that (1) FACs characteristics and dependence on controlling parameters do not map between scales in a straight forward manner, (2) relationships between FAC scales exhibit local time dependence, and (3) the dayside high-latitude region is characterized by remarkably distinct FAC behavior when analyzed at different scales, and the locations of distinction correspond to “anomalous” ionosphere-thermosphere behavior. Comparing with nominal large-scale FACs, we find that differences are characterized by a horseshoe shape, maximizing across dayside local times, and that difference magnitudes increase when smaller-scale observed FACs are considered. We suggest that both new physics and increased resolution of models are required to address the multiscale complexities. We include a summary table of our findings to provide a quick reference for differences between multiscale FACs.},
+year = {2017}
+}
+
+@article{McGranaghan_2017b,
+author = {McGranaghan, Ryan M. and Bhatt, Asti and Matsuo, Tomoko and Mannucci, Anthony J. and Semeter, Joshua L. and Datta-Barua, Seebany},
+title = {Ushering in a New Frontier in Geospace Through Data Science},
+journal = {Journal of Geophysical Research: Space Physics},
+volume = {122},
+number = {12},
+pages = {12,586-12,590},
+keywords = {geospace, space weather, data science, data-driven science, machine learning},
+doi = {https://doi.org/10.1002/2017JA024835},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2017JA024835},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/2017JA024835},
+abstract = {Abstract Our understanding and specification of solar-terrestrial interactions benefit from taking advantage of comprehensive data-intensive approaches. These data-driven methods are taking on new importance in light of the shifting data landscape of the geospace system, which extends from the near Earth space environment, through the magnetosphere and interplanetary space, to the Sun. The space physics community faces both an exciting opportunity and an important imperative to create a new frontier built at the intersection of traditional approaches and state-of-the-art data-driven sciences and technologies. This brief commentary addresses the current paradigm of geospace science and the emerging need for data science innovation, discusses the meaning of data science in the context of geospace, and highlights community efforts to respond to the changing landscape.},
+year = {2017}
+}
+
+@article{McGranaghan_2017c,
+author = {McGranaghan, Ryan M. and Mannucci, Anthony J. and Verkhoglyadova, Olga and Malik, Nishant},
+title = {Finding multiscale connectivity in our geospace observational system: {N}etwork analysis of total electron content},
+journal = {Journal of Geophysical Research: Space Physics},
+volume = {122},
+number = {7},
+pages = {7683-7697},
+keywords = {total electron content, network analysis, multiscale, Global Navigation Satellite System, ionosphere, connectivity},
+doi = {https://doi.org/10.1002/2017JA024202},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2017JA024202},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/2017JA024202},
+abstract = {Abstract We present the first complex network theory-based analysis of high-latitude total electron content (TEC) data, including dependencies on interplanetary magnetic field (IMF) clock angle and hemisphere. We examine several network measures to quantify the spatiotemporal correlation patterns in the TEC data for winter and summer months in 2016. We find that significant structure exists in the correlation patterns, distinguishing the dayside and nightside ionosphere, and specific features in the high latitudes such as the polar cap and auroral oval, including the cusp and ionospheric foot points of magnetospheric boundary layers. These features vary with the IMF, exhibiting a strong dependence on the north-south direction and generally larger variations during the winter months in both hemispheres. Our exploratory results suggest that network analysis of TEC data can be used to study characteristic ionospheric spatial scales at high latitudes, thereby extending the utility of these data. We explore mesoscale and large scale (greater than tens of kilometers and greater than hundreds of kilometers, respectively) as a function of winter/summer season, hemisphere, and IMF direction and conclude that the relative importance of different ionospheric scales is not a constant relationship. Together with an identification of important areas of future work, our findings provide a foundation for the application of network analysis techniques to ionospheric TEC. Our results suggest that network analysis can reveal new physical connections in the ionospheric system.},
+year = {2017}
+}
+
+@article{Dods_2015,
+author = {Dods, J. and Chapman, S. C. and Gjerloev, J. W.},
+title = {Network analysis of geomagnetic substorms using the SuperMAG database of ground-based magnetometer stations},
+journal = {Journal of Geophysical Research: Space Physics},
+volume = {120},
+number = {9},
+pages = {7774-7784},
+keywords = {substorms, networks, correlation, ground stations, SuperMAG},
+doi = {https://doi.org/10.1002/2015JA021456},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2015JA021456},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/2015JA021456},
+abstract = {Abstract The overall morphology and dynamics of magnetospheric substorms is well established in terms of the observed qualitative auroral features seen in ground-based magnetometers. This paper focuses on the quantitative characterization of substorm dynamics captured by ground-based magnetometer stations. We present the first analysis of substorms using dynamical networks obtained from the full available set of ground-based magnetometer observations in the Northern Hemisphere. The stations are connected in the network when the correlation between the vector magnetometer time series from pairs of stations within a running time window exceeds a threshold. Dimensionless parameters can then be obtained that characterize the network and by extension, the spatiotemporal dynamics of the substorm under observation. We analyze four isolated substorm test cases as well as a steady magnetic convection (SMC) event and a day in which no substorms occur. These test case substorms are found to give a consistent characteristic network response at onset in terms of their spatial correlation. Such responses are differentiable from responses to the SMC event and nonsubstorm times. We present a method to optimize network parametrization with respect to the different individual station responses, the spatial inhomogeneity of stations in the Northern Hemisphere, and the choice of correlation window sizes. Our results suggest that dynamical network analysis has potential to quantitatively categorize substorms.},
+year = {2015}
+}
+
+@book{Newman_2018,
+    author = {Newman, Mark},
+    title = "{Networks: An Introduction}",
+    publisher = {Oxford University Press},
+    year = {2010},
+    month = {03},
+    abstract = "{The scientific study of networks, including computer networks, social networks, and biological networks, has received an enormous amount of interest in the last few years. The rise of the Internet and the wide availability of inexpensive computers have made it possible to gather and analyze network data on a large scale, and the development of a variety of new theoretical tools has allowed us to extract new knowledge from many different kinds of networks. The study of networks is broadly interdisciplinary and important developments have occurred in many fields, including mathematics, physics, computer and information sciences, biology, and the social sciences. This book brings together the most important breakthroughs in each of these fields and presents them in a coherent fashion, highlighting the strong interconnections between work in different areas. Subjects covered include the measurement and structure of networks in many branches of science, methods for analyzing network data, including methods developed in physics, statistics, and sociology, the fundamentals of graph theory, computer algorithms, and spectral methods, mathematical models of networks, including random graph models and generative models, and theories of dynamical processes taking place on networks.}",
+    isbn = {9780199206650},
+    doi = {10.1093/acprof:oso/9780199206650.001.0001},
+    url = {https://doi.org/10.1093/acprof:oso/9780199206650.001.0001},
+}
+
+@book{Kauffman_1993,
+  title={The Origins of Order: {S}elf-organization and Selection in Evolution},
+  author={Kauffman, S.A.},
+  isbn={9780195079517},
+  lccn={lc91011148},
+  url={https://books.google.com/books?id=lZcSpRJz0dgC},
+  year={1993},
+  publisher={Oxford University Press}
+}
+
+@article{Scheffer_2001,
+author = {Scheffer, Marten and Carpenter, Steve and Foley, Jonathan and Folke, Carl and Walker, Brian},
+year = {2001},
+month = {11},
+pages = {591-6},
+title = {Catastrophic Shifts in Ecosystems},
+volume = {413},
+journal = {Nature},
+doi = {10.1038/35098000}
+}
+
+% Complex systems science allows us to see new paths forward
+% Jessica Flack 
+% Melanie Mitchell
+ @article{flack_mitchell_2021, title={Complex systems science allows us to see new paths forward}, url={https://aeon.co/essays/complex-systems-science-allows-us-to-see-new-paths-forward}, journal={AEON}, author={Flack, Jessica and Mitchell, Melanie Mitchell}, year={2021}, month={Aug}} 
+
+@article{Torres_2021,
+  title={The why, how, and when of representations for complex systems},
+  author={Leo Torres and Ann Sizemore Blevins and Danielle S. Bassett and Tina Eliassi-Rad},
+  journal={SIAM Rev.},
+  year={2021},
+  volume={63},
+  pages={435-485}
+}
+
+@book{west2017scale,
+  title={Scale: The Universal Laws of Life and Death in Organisms, Cities and Companies},
+  author={West, G.},
+  isbn={9780297869665},
+  url={https://books.google.com/books?id=rXS0CwAAQBAJ},
+  year={2017},
+  publisher={Orion}
+}
+
+
+@article {BakColeman_2021,
+	author = {Bak-Coleman, Joseph B. and Alfano, Mark and Barfuss, Wolfram and Bergstrom, Carl T. and Centeno, Miguel A. and Couzin, Iain D. and Donges, Jonathan F. and Galesic, Mirta and Gersick, Andrew S. and Jacquet, Jennifer and Kao, Albert B. and Moran, Rachel E. and Romanczuk, Pawel and Rubenstein, Daniel I. and Tombak, Kaia J. and Van Bavel, Jay J. and Weber, Elke U.},
+	title = {Stewardship of global collective behavior},
+	volume = {118},
+	number = {27},
+	elocation-id = {e2025764118},
+	year = {2021},
+	doi = {10.1073/pnas.2025764118},
+	publisher = {National Academy of Sciences},
+	abstract = {Collective behavior provides a framework for understanding how the actions and properties of groups emerge from the way individuals generate and share information. In humans, information flows were initially shaped by natural selection yet are increasingly structured by emerging communication technologies. Our larger, more complex social networks now transfer high-fidelity information over vast distances at low cost. The digital age and the rise of social media have accelerated changes to our social systems, with poorly understood functional consequences. This gap in our knowledge represents a principal challenge to scientific progress, democracy, and actions to address global crises. We argue that the study of collective behavior must rise to a {\textquotedblleft}crisis discipline{\textquotedblright} just as medicine, conservation, and climate science have, with a focus on providing actionable insight to policymakers and regulators for the stewardship of social systems.There are no data underlying this work.},
+	issn = {0027-8424},
+	URL = {https://www.pnas.org/content/118/27/e2025764118},
+	eprint = {https://www.pnas.org/content/118/27/e2025764118.full.pdf},
+	journal = {Proceedings of the National Academy of Sciences}
+}
+
+
+@article{Sorathia_2017,
+author = {Sorathia, K. A. and Merkin, V. G. and Ukhorskiy, A. Y. and Mauk, B. H. and Sibeck, D. G.},
+title = {Energetic particle loss through the magnetopause: A combined global MHD and test-particle study},
+journal = {Journal of Geophysical Research: Space Physics},
+volume = {122},
+number = {9},
+pages = {9329-9343},
+keywords = {magnetopause losses, MHD, energetic particles, radiation belts, ring current},
+doi = {https://doi.org/10.1002/2017JA024268},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2017JA024268},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/2017JA024268},
+abstract = {Abstract We study the spatiotemporal characteristics of energetic particle losses from the magnetosphere using test-particle trajectories in electromagnetic fields from a global magnetosphere magnetohydrodynamic (MHD) simulation. We use a dynamically evolving distribution of high-resolution electromagnetic fields from the Lyon-Fedder-Mobarry global MHD model and trace large ensembles of 100 keV hydrogen and oxygen ions as well as electrons from a near-Earth plasma sheet location through their escape from the magnetosphere. In agreement with recent MMS observations, we demonstrate that both ions and electrons have access to and escape throughout the dayside magnetopause, including magnetically drift-shadowed regions. Also, in agreement with MMS observations, the depth of penetration and persistence of particles in the magnetosheath has a clear mass dependence, heavier particles penetrating further and lingering longer. We demonstrate both magnetic local time and latitude dependence of particles losses as manifested by their crossings of the open-closed boundary and relate them to the complex field topology. Finally, we establish a significant role of Kelvin-Helmholtz instability in facilitating particle losses at the magnetopause flanks.},
+year = {2017}
+}
+
+@article{Kuhn_1962,
+	publisher = {University of Chicago Press},
+	journal = {International Encyclopedia of Unified Science},
+	volume = {2},
+	title = {The Structure of Scientific Revolutions},
+	number = {2},
+	year = {1962},
+	author = {Kuhn,  Thomas}
+}
+
+@article{Rosas_2020,
+    doi = {10.1371/journal.pcbi.1008289},
+    author = {Rosas, Fernando E. AND Mediano, Pedro A. M. AND Jensen, Henrik J. AND Seth, Anil K. AND Barrett, Adam B. AND Carhart-Harris, Robin L. AND Bor, Daniel},
+    journal = {PLOS Computational Biology},
+    publisher = {Public Library of Science},
+    title = {Reconciling emergences: An information-theoretic approach to identify causal emergence in multivariate data},
+    year = {2020},
+    month = {12},
+    volume = {16},
+    url = {https://doi.org/10.1371/journal.pcbi.1008289},
+    pages = {1-22},
+    abstract = {The broad concept of emergence is instrumental in various of the most challenging open scientific questions—yet, few quantitative theories of what constitutes emergent phenomena have been proposed. This article introduces a formal theory of causal emergence in multivariate systems, which studies the relationship between the dynamics of parts of a system and macroscopic features of interest. Our theory provides a quantitative definition of downward causation, and introduces a complementary modality of emergent behaviour—which we refer to as causal decoupling. Moreover, the theory allows practical criteria that can be efficiently calculated in large systems, making our framework applicable in a range of scenarios of practical interest. We illustrate our findings in a number of case studies, including Conway’s Game of Life, Reynolds’ flocking model, and neural activity as measured by electrocorticography.},
+    number = {12},
+
+}
+
+@article{Bak_1987,
+  title = {Self-organized criticality: {A}n explanation of the 1/f noise},
+  author = {Bak, Per and Tang, Chao and Wiesenfeld, Kurt},
+  journal = {Phys. Rev. Lett.},
+  volume = {59},
+  issue = {4},
+  pages = {381--384},
+  numpages = {0},
+  year = {1987},
+  month = {Jul},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevLett.59.381},
+  url = {https://link.aps.org/doi/10.1103/PhysRevLett.59.381}
+}
+
+@incollection{Hooker_2011,
+title = {Economic Systems},
+editor = {Cliff Hooker},
+booktitle = {Philosophy of Complex Systems},
+publisher = {North-Holland},
+address = {Amsterdam},
+pages = {509-530},
+year = {2011},
+volume = {10},
+series = {Handbook of the Philosophy of Science},
+issn = {18789846},
+doi = {https://doi.org/10.1016/B978-0-444-52076-0.50018-3},
+url = {https://www.sciencedirect.com/science/article/pii/B9780444520760500183},
+author = {John Foster},
+abstract = {Publisher Summary
+This chapter explains why it is essential to conduct all economic analysis within a complex (adaptive) systems framework and to show why this makes a very significant difference. It is explained what the original purpose of constrained optimization analysis was when it was imported into economics over a century ago and why what was a sensible and pragmatic application of logic in special circumstances became a general approach to dealing with economic phenomena. Discussion argued that acknowledgement that economic systems are both complex and adaptive means that one has to begin by viewing them as network structures of elements and connections that are, at base, energetically-driven and, thus, dissipative in nature. As such, they are subject to the laws of thermodynamics and survive and grow only if energy throughput can be increased. However, with economic systems, one has to travel well beyond Ilya Prigogine's seminal representation of a complex physiochemical system as a free energy processor and even beyond Daniel Brooks and Edward Wiley's controversial, but very insightful, representation of biological systems as self-organizing information processors, relying on a store of knowledge acquired from experience. Sophisticated economic systems are different because they actively seek new knowledge that is artificially constructed in the human imagination and is not just a by-product of experience.}
+}
+
+@article{Aschwanden_2014, 
+    title={25 years of self-organized criticality: {S}olar and astrophysics}, 
+    volume={198}, 
+    DOI={10.1007/s11214-014-0054-6}, 
+    number={1-4}, 
+    journal={Space Science Reviews}, 
+    author={Aschwanden, Markus J. and Crosby, Norma B. and Dimitropoulou, Michaila and Georgoulis, Manolis K. and Hergarten, Stefan and McAteer, James and Milovanov, Alexander V. and Mineshige, Shin and Morales, Laura and Nishizuka, Naoto and et al.}, 
+    year={2014}, 
+    pages={47–166}} 
+    
+@book{bak1997,
+  title={How Nature Works: The Science of Self-organized Criticality},
+  author={Bak, P.},
+  isbn={9780198501640},
+  lccn={96016845},
+  url={https://books.google.com/books?id=Bth4QgAACAAJ},
+  year={1997},
+  publisher={Oxford University Press}
+}
+
+@book{Wolfram_2002,
+  title={A New Kind of Science},
+  author={Wolfram, S.},
+  isbn={9781579550080},
+  lccn={2001046603},
+  url={https://books.google.com/books?id=dw\_vAAAAMAAJ},
+  year={2002},
+  publisher={Wolfram Media}
+}
+
+@article{Charbonneau_2001, 
+    title={Avalanche models for solar flares}, 
+    volume={203}, 
+    DOI={10.1023/A:1013301521745}, 
+    journal={Solar Physics}, 
+    author={Paul Charbonneau and Scott W. McIntosh and Han-Li Liu and Thomas J. Bogdan}, 
+    year={2001}, 
+    pages={321–353}} 
+
+    
+
+
+
+@article{Chang_2003,
+  title = {Self-organized criticality: {A}n explanation of the 1/f noise},
+  author = {Chang, Tom and Tam, Sunny W.Y. and Wu, Cheng-Chin and Consolini, Giuseppe},
+  journal = {Space Science Reviews},
+  volume = {107},
+  issue = {1},
+  number={1572-9672},
+  year = {2003},
+  month = {Apr},
+  publisher = {American Physical Society},
+  doi = {10.1023/A:1025502023494},
+  url = {https://doi.org/10.1023/A:1025502023494}
+}
+
+@book{Hidalgo_2015,
+  title={Why Information Grows: {T}he Evolution of Order, from Atoms to Economies},
+  author={Hidalgo, C.},
+  isbn={9780141978031},
+  url={https://books.google.com/books?id=hgOyBQAAQBAJ},
+  year={2015},
+  publisher={Penguin Books Limited}
+}
+
+
+@incollection{Smelser_2001,
+title = {Information Theory},
+editor = {Neil J. Smelser and Paul B. Baltes},
+booktitle = {International Encyclopedia of the Social \& Behavioral Sciences},
+publisher = {Pergamon},
+address = {Oxford},
+pages = {7476-7480},
+year = {2001},
+isbn = {978-0-08-043076-8},
+doi = {https://doi.org/10.1016/B0-08-043076-7/00608-2},
+url = {https://www.sciencedirect.com/science/article/pii/B0080430767006082},
+author = {L. Martignon},
+abstract = {Information theory is the mathematical treatment of the concepts, parameters and rules governing the transmission of messages through communication systems. It was founded by Claude Shannon toward the middle of the twentieth century and has since then evolved into a vigorous branch of mathematics fostering the development of other scientific fields, such as statistics, biology, behavioral science, neuroscience, and statistical mechanics. The techniques used in information theory are probabilistic in nature and some view information theory as a branch of probability theory. In a given set of possible events, the information of a message describing one of these events quantifies the symbols needed to encode the event in an optimal way. ‘Optimal’ means that the obtained code word will determine the event unambiguously, isolating it from all others in the set, and will have minimal length, that is, it will consist of a minimal number of symbols. Information theory also provides methodologies to separate real information from noise and to determine the channel capacity required for optimal transmission conditioned on the transmission rate.}
+}
+
+@article{Consolini_2002,
+author = {Consolini, Giuseppe},
+title = {Self-organized criticality: {A} new paradigm for the magnetotail dynamics},
+journal = {Fractals},
+volume = {10},
+number = {03},
+pages = {275-283},
+year = {2002},
+doi = {10.1142/S0218348X02001397},
+URL = {         https://doi.org/10.1142/S0218348X02001397},
+eprint = { 
+        https://doi.org/10.1142/S0218348X02001397
+},}
+
+@article{Camporeale_2019,
+author = {Camporeale, E.},
+title = {The Challenge of Machine Learning in Space Weather: Nowcasting and Forecasting},
+journal = {Space Weather},
+volume = {17},
+number = {8},
+pages = {1166-1207},
+doi = {https://doi.org/10.1029/2018SW002061},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018SW002061},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2018SW002061},
+abstract = {Abstract The numerous recent breakthroughs in machine learning make imperative to carefully ponder how the scientific community can benefit from a technology that, although not necessarily new, is today living its golden age. This Grand Challenge review paper is focused on the present and future role of machine learning in Space Weather. The purpose is twofold. On one hand, we will discuss previous works that use machine learning for Space Weather forecasting, focusing in particular on the few areas that have seen most activity: the forecasting of geomagnetic indices, of relativistic electrons at geosynchronous orbits, of solar flares occurrence, of coronal mass ejection propagation time, and of solar wind speed. On the other hand, this paper serves as a gentle introduction to the field of machine learning tailored to the Space Weather community and as a pointer to a number of open challenges that we believe the community should undertake in the next decade. The recurring themes throughout the review are the need to shift our forecasting paradigm to a probabilistic approach focused on the reliable assessment of uncertainties, and the combination of physics-based and machine learning approaches, known as gray box.},
+year = {2019}
+}
+
+@book{Wiener_1961,
+  title={Cybernetics Or Control and Communication in the Animal and the Machine},
+  author={Wiener, N. and Business Library Johnson Foundation Collection},
+  isbn={9780262730099},
+  lccn={61013034},
+  series={DE-601)251474038: MIT paperback series},
+  url={https://books.google.com/books?id=NnM-uISyywAC},
+  year={1961},
+  publisher={M.I.T. Press}
+}
+
+
+@Article{Wing_2019,
+AUTHOR = {Wing, Simon and Johnson, Jay R.},
+TITLE = {Applications of Information Theory in Solar and Space Physics},
+JOURNAL = {Entropy},
+VOLUME = {21},
+YEAR = {2019},
+NUMBER = {2},
+ARTICLE-NUMBER = {140},
+URL = {https://www.mdpi.com/1099-4300/21/2/140},
+ISSN = {1099-4300},
+DOI = {10.3390/e21020140}
+}
+
+@article{Manshour2021CausalityAI,
+  title={Causality and Information Transfer Between the Solar Wind and the Magnetosphere–Ionosphere System},
+  author={Pouya Manshour and Georgios Balasis and Giuseppe Consolini and Constantinos Papadimitriou and Milan Palu{\vs}},
+  journal={Entropy},
+  year={2021},
+  volume={23}
+}
+
+@article{Schrijver_2015,
+title = "{{Understanding space weather to shield society: A global road map for 2015–2025 commissioned by COSPAR and ILWS}}",
+journal = "Advances in Space Research",
+volume = "55",
+number = "12",
+pages = "2745 - 2807",
+year = "2015",
+issn = "0273-1177",
+doi = "https://doi.org/10.1016/j.asr.2015.03.023",
+url = "http://www.sciencedirect.com/science/article/pii/S0273117715002252",
+author = "Carolus J. Schrijver and Kirsti Kauristie and Alan D. Aylward and Clezio M. Denardini and Sarah E. Gibson and Alexi Glover and Nat Gopalswamy and Manuel Grande and Mike Hapgood and Daniel Heynderickx and Norbert Jakowski and Vladimir V. Kalegaev and Giovanni Lapenta and Jon A. Linker and Siqing Liu and Cristina H. Mandrini and Ian R. Mann and Tsutomu Nagatsuma and Dibyendu Nandy and Takahiro Obara and T. {Paul O’Brien} and Terrance Onsager and Hermann J. Opgenoorth and Michael Terkildsen and Cesar E. Valladares and Nicole Vilmer",
+keywords = "Space weather, COSPAR/ILWS road map panel",
+}
+
+@Article{Scheffer_2001,
+AUTHOR = {Scheffer, M., Carpenter, S., Foley, J. et al.},
+TITLE = {Catastrophic shifts in ecosystems},
+JOURNAL = {Nature},
+VOLUME = {413},
+YEAR = {2001},
+pages = {591–596 },
+URL = {https://doi.org/10.1038/35098000},
+DOI = {10.1038/35098000}
+}
+
+@article{DeBruijn_2017,
+title = {Resilience in practice: Five principles to enable societies to cope with extreme weather events},
+journal = {Environmental Science \& Policy},
+volume = {70},
+pages = {21-30},
+year = {2017},
+issn = {1462-9011},
+doi = {https://doi.org/10.1016/j.envsci.2017.02.001},
+url = {https://www.sciencedirect.com/science/article/pii/S1462901116305202},
+author = {Karin {de Bruijn} and Joost Buurman and Marjolein Mens and Ruben Dahm and Frans Klijn}}
+
+@article{Angeler_2018,
+title = {Resilience in Environmental Risk and Impact Assessment: {C}oncepts and Measurement},
+journal = {Bulletin of environmental contamination and toxicology},
+volume = {101},
+pages = {543-548},
+year = {2018},
+doi = {10.1007/s00128-018-2467-5},
+author = {Angeler, D. G. and Allen, C. R. and Garmestani, A. and Pope, K. L. and Twidwell, D. and  Bundschuh, M.}}
+
+@inproceedings{Spanswick2018FirstLightOF,
+  title={First-Light Observations from the {Transition Region Explorer} ({TREx}) Ground-Based Network},
+  author={E. L. Spanswick and E. Donovan and J. Liang and A. Weatherwax and Susan Skone and Denise L. Hampton and M. Gillies and B. Yang and D. Chaddock and Lori Vollmerhaus and Joseph Kujawski},
+  year={2018},
+  booktitle={AGU Fall Meeting Abstracts}
+}
+
+@article{Levitt1975ComputerSO,
+  title={Computer simulation of protein folding},
+  author={Michael Levitt and Arieh Warshel},
+  journal={Nature},
+  year={1975},
+  volume={253},
+  pages={694-698}
+}
+
+@article{Kamide_1996,
+author = {Kamide, Y. and Kokubun, S.},
+title = {Two-component auroral electrojet: Importance for substorm studies},
+journal = {Journal of Geophysical Research: Space Physics},
+volume = {101},
+number = {A6},
+pages = {13027-13046},
+doi = {https://doi.org/10.1029/96JA00142},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/96JA00142},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/96JA00142},
+abstract = {This paper attempts to synthesize the diverse number of observations of electric fields and currents in the high-latitude ionosphere during substorms. By demonstrating that there are often spatial shifts among regions of high ionospheric conductivity, large electric fields and intense currents in the auroral electrojet, it is shown that substorm time variations of the current patterns over the entire polar region consist of two basic components. The first is related to the two-cell convection pattern and the second to the westward electrojet in the dark sector, which is in turn related to the three-dimensional wedge current system. These two components result from the relative strength of electric fields and conductivities in the intensification of the auroral electrojet and are identified as the signatures for directly driven and the unloading components in solar wind-magnetosphere interactions. We contend that disturbed intervals do not necessitate the presence of substorm expansion-phase activity and that the vast number of earlier complex results concerning the auroral electrojet can be ascertained from the high degree of variability of the two components, depending on substorm events, substorm phases, and their own spatial/temporal scale sizes. It is demonstrated that several major issues that have remained controversial are now accounted for reasonably well in terms of this two-component electrojet model. We also predict specific features of the substorm auroral electrojet that have not yet been observed.},
+year = {1996}
+}
+
+@article{Fung2008SpecificationOM,
+  title={Specification of multiple geomagnetic responses to variable solar wind and IMF input},
+  author={Shing F. Fung and Xi Shao},
+  journal={Annales Geophysicae},
+  year={2008},
+  volume={26},
+  pages={639-652}
+}
+
+@article{Borovsky2018ExplorationOA,
+  title={Exploration of a Composite Index to Describe Magnetospheric Activity: Reduction of the Magnetospheric State Vector to a Single Scalar},
+  author={Joseph E. Borovsky and Michael H. Denton},
+  journal={Journal of Geophysical Research: Space Physics},
+  year={2018},
+  volume={123},
+  pages={7384 - 7412}
+}
+
+@article{Hernandez_1993,
+author = {Hernandez, J. V. and Tajima, T. and Horton, W.},
+title = {Neural net forecasting for geomagnetic activity},
+journal = {Geophysical Research Letters},
+volume = {20},
+number = {23},
+pages = {2707-2710},
+doi = {https://doi.org/10.1029/93GL02848},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/93GL02848},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/93GL02848},
+abstract = {We use neural nets to construct nonlinear models to forecast the AL index given solar wind and interplanetary magnetic field (IMF) data. We follow two approaches: 1) the state space reconstruction approach, which is a nonlinear generalization of autoregressive-moving average models (ARMA) and 2) the nonlinear filter approach, which reduces to a moving average model (MA) in the linear limit. The database used here is that of Bargatze et al. [1985].},
+year = {1993}
+}
+
+@article{Ruelle_1980,
+author = {Ruelle, D.},
+title = {Strange attractors},
+journal = {The Mathematical Intelligencer},
+volume = {2},
+number = {126},
+pages = {},
+doi = {https://doi.org/10.1007/BF03023053},
+url = {https://doi.org/10.1007/BF03023053},
+year = {1980}
+}
+
+@article{Shan_1991,
+author = {Shan, L.-H. and Hansen, P. and Goertz, C. K. and Smith, R. A.},
+title = {Chaotic appearance of the {AE} index},
+journal = {Geophysical Research Letters},
+volume = {18},
+number = {2},
+pages = {147-150},
+doi = {https://doi.org/10.1029/90GL02477},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/90GL02477},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/90GL02477},
+abstract = {A typical time sequence of AE shows no obvious regularities which suggests either that the magnetosphere is a random (stochastic) system or displays deterministic chaos. To find out whether the magnetosphere is random or chaotic, AE data have been studied by the embedding dimension method to find the correlation dimension of the magnetosphere. The autocorrelation (AC) time scale τ[AC(τ) = ½ AC(0)] is about 50 minutes for all the cases we have investigated. This time scale may represent the time over which the magnetosphere adjusts to sudden changes. The frequency spectrum of the AE data is broadband with a universal form P(ω) ∼ ω−β, where β is about 2 for the frequencies, f = ω/2π between 0.04 mHz and 4 mHz. The correlation dimension for the AE data using a 1 minute delay to construct a time series of m dimensional vectors is between 3 and 4. With the proper time delay τ ⋍ 50min, which is the autocorrelation time, the correlation dimension is around 2.4. The variation of the correlation dimension with different time delays is shown. But because colored noise with β = 2 has a correlation dimension near 2.1, it is not yet possible to determine whether AE index is a signal resulting from colored noise or from deterministic chaos.},
+year = {1991}
+}
+
+@article{shan1991embedding,
+  title={On the embedding-dimension analysis of AE and AL time series},
+  author={Shan, Lin-Hua and Goertz, Christoph K and Smith, Robert A},
+  journal={Geophysical research letters},
+  volume={18},
+  number={8},
+  pages={1647--1650},
+  year={1991},
+  publisher={Wiley Online Library}
+}
+
+@article{shan1991chaotic,
+  title={Chaotic appearance of the AE index},
+  author={Shan, L-H and Hansen, P and Goertz, CK and Smith, RA},
+  journal={Geophysical research letters},
+  volume={18},
+  number={2},
+  pages={147--150},
+  year={1991},
+  publisher={Wiley Online Library}
+}
+
+@article{Roberts1991IsTA,
+  title={Is there a strange attractor in the magnetosphere?},
+  author={D. Aaron Roberts},
+  journal={Journal of Geophysical Research},
+  year={1991},
+  volume={96},
+  pages={16031-16046}
+}
+
+@article{Roberts1991IndicationsOL,
+  title={Indications of low dimensionality in magnetospheric dynamics},
+  author={D. Aaron Roberts and Daniel N. Baker and Alexander J. Klimas and Lee Bargatze},
+  journal={Geophysical Research Letters},
+  year={1991},
+  volume={18},
+  pages={151-154}
+}
+
+@article{Theiler1986SpuriousDF,
+  title={Spurious dimension from correlation algorithms applied to limited time-series data.},
+  author={Theiler},
+  journal={Physical review. A, General physics},
+  year={1986},
+  volume={34 3},
+  pages={
+          2427-2432
+        }
+}
+
+@article{Theiler1992TestingFN,
+  title={Testing for nonlinearity in time series: the method of surrogate data},
+  author={James Theiler and Stephen Eubank and Andr{\'e} Longtin and B. Galdrikian and J. Doyne Farmer},
+  journal={Physica D: Nonlinear Phenomena},
+  year={1992},
+  volume={58},
+  pages={77-94}
+}
+
+@article{Prichard1994TheCD,
+  title={The correlation dimension of differenced data},
+  author={Dean Prichard},
+  journal={Physics Letters A},
+  year={1994},
+  volume={191},
+  pages={245-250}
+}
+
+@article{Prichard1992SpuriousDE,
+  title={Spurious dimension estimates from time series of geomagnetic indices},
+  author={Dean Prichard and C. P. Price},
+  journal={Geophysical Research Letters},
+  year={1992},
+  volume={19},
+  pages={1623-1626}
+}
+
+@article{Price1993TheNR,
+  title={The non‐linear response of the magnetosphere: 30 October 1978},
+  author={C. P. Price and D. Prichard},
+  journal={Geophysical Research Letters},
+  year={1993},
+  volume={20},
+  pages={771-774}
+}
+
+@article{Osborne1989FiniteCD,
+  title={Finite correlation dimension for stochastic systems with power-law spectra},
+  author={Alfred R. Osborne and Antonello Provenzale},
+  journal={Physica D: Nonlinear Phenomena},
+  year={1989},
+  volume={35},
+  pages={357-381}
+}
+
+@article{Pavlos1992EvidenceFS,
+  title={Evidence for strange attractor structures in space plasmas.},
+  author={Georgios P. Pavlos and George A. Kyriakou and Alexandros G. Rigas and Panos Liatsis and P. C. Trochoutsos and A. A. Tsonis},
+  journal={Annales Geophysicae},
+  year={1992},
+  volume={10},
+  pages={309-322}
+}
+
+@article{Sharma1993ReconstructionOL,
+  title={Reconstruction of low‐dimensional magnetospheric dynamics by singular spectrum analysis},
+  author={A. Surjalal Sharma and Dimitris Vassiliadis and Konstantinos D. Papadopoulos},
+  journal={Geophysical Research Letters},
+  year={1993},
+  volume={20},
+  pages={335-338}
+}
+
+@article{Davis_1966,
+author = {Davis, T. Neil and Sugiura, Masahisa},
+title = {Auroral electrojet activity index AE and its universal time variations},
+journal = {Journal of Geophysical Research (1896-1977)},
+volume = {71},
+number = {3},
+pages = {785-801},
+doi = {https://doi.org/10.1029/JZ071i003p00785},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/JZ071i003p00785},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/JZ071i003p00785},
+year = {1966}
+}
+
+@article{Perreault_1978,
+    author = {Perreault, Paul and Akasofu, S. I.},
+    title = "{A study of geomagnetic storms}",
+    journal = {Geophysical Journal International},
+    volume = {54},
+    number = {3},
+    pages = {547-573},
+    year = {1978},
+    month = {09},
+    abstract = "{An attempt is made to find interplanetary magnetic field and solar-wind parameters which control the development of geomagnetic storms. For this purpose, the interplanetary energy flux is estimated in terms of the Poynting flux (E×B/4π), and its time variations are compared with the rate of energy dissipation in terms of the ring-current particle injection ui(t), Joule dissipation in the ionosphere uj(t) and auroral particle injection up(t) for 15 major geomagnetic storms.It is shown that the growth of geomagnetic storms, namely the time variations of the rate of the total energy dissipation, u(t) =ui(t) +uj(t) +up(t), is closely related to the Poynting flux by the following relation: where l0 ≅ 7RE and θ′ is a measure of the angle between the interplanetary magnetic field vector and the magnetospheric field vector at the front of the magnetosphere in the equatorial plane. Further, it is shown that  within a factor of 2 for each storm period.A large increase of u(t) is associated with substorm activity. Thus, the energy flux ∈(t) entering the magnetosphere is dissipated through magneto-spheric substorm processes within the magnetosphere, and their accumulated effects can be understood as geomagnetic storm phenomena.}",
+    issn = {0956-540X},
+    doi = {10.1111/j.1365-246X.1978.tb05494.x},
+    url = {https://doi.org/10.1111/j.1365-246X.1978.tb05494.x},
+    eprint = {https://academic.oup.com/gji/article-pdf/54/3/547/1682075/54-3-547.pdf},
+}
+
+@article{Akasofu_1979,
+title = {Interplanetary energy flux associated with magnetospheric substorms},
+journal = {Planetary and Space Science},
+volume = {27},
+number = {4},
+pages = {425-431},
+year = {1979},
+issn = {0032-0633},
+doi = {https://doi.org/10.1016/0032-0633(79)90119-3},
+url = {https://www.sciencedirect.com/science/article/pii/0032063379901193},
+author = {S.-I. Akasofu},
+abstract = {It is shown that the interplanetary quantity ε(t), obtained by Perreault and Akasofu (1978), for intense geomagnetic storms, also correlates well with individual magnetospheric substonns. This quantity is given by ε(t) = VB2sin4 (θ2)lo2, where V and B denote the solar wind speed and the magnitude of the interplanetary magnetic field (IMF), respectively, and θ denotes the polar angle of the IMF; lo is a constant ≊ 7 Earth radii. The AE index is used in this correlation study. The correlation is good enough to predict both the occurrence and intensity of magnetospheric substonns observed in the auroral zone, by monitoring the quantity ε(t) upstream of the solar wind.}
+}
+
+@article{Akasofu1981EnergyCB,
+  title={Energy coupling between the solar wind and the magnetosphere},
+  author={S-I. Akasofu},
+  journal={Space Science Reviews},
+  year={1981},
+  volume={28},
+  pages={121-190}
+}
+
+@article{Akasofu_1980,
+title = {The solar wind-magnetosphere energy coupling and magnetospheric disturbances},
+journal = {Planetary and Space Science},
+volume = {28},
+number = {5},
+pages = {495-509},
+year = {1980},
+issn = {0032-0633},
+doi = {https://doi.org/10.1016/0032-0633(80)90031-8},
+url = {https://www.sciencedirect.com/science/article/pii/0032063380900318},
+author = {S.-I. Akasofu},
+abstract = {The recent finding of the solar wind-magnetosphere energy coupling function ε has advanced significantly our understanding of magnetospheric disturbances. It is shown that the magnetosphere-ionosphere coupling system responds somewhat differently to three different input energy flux levels of ε. As ε increases from < 1017 erg s−1 to > 019 erg s−1, typical responses of the magnetosphere-ionosphere coupling system are: ε < 1017 erg s−1: an enhancement of the Sqp, etc, ε ≈ 1018 erg s−1: substorm onset, 1018 erg s−1 < ε < 1019 erg s−1f: a typical substorm, ε >1019 erg s−1: an abnormal growth of the ring current belt, resulting in a magnetospheric storm. It is stressed that the magnetospheric substorm results as a direct response of the magnetosphere to a rise and fall of ε above ≈ 1018 erg s−1, so that it is not caused by a sudden conversion of magnetic energy accumulated prior to substorm onset. The variety of the development of the main phase of geomagnetic storms is also primarily controlled by ε.}
+}
+
+@article{McPherron_1970,
+author = {McPherron, Robert L.},
+title = {Growth phase of magnetospheric substorms},
+journal = {Journal of Geophysical Research (1896-1977)},
+volume = {75},
+number = {28},
+pages = {5592-5599},
+keywords = {Magnetosphere: Magnetic Storms},
+doi = {https://doi.org/10.1029/JA075i028p05592},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/JA075i028p05592},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/JA075i028p05592},
+year = {1970}
+}
+
+@article{McPherron_1973,
+author = {McPherron, R. L. and Russell, C. T. and Aubry, M. P.},
+title = {Satellite studies of magnetospheric substorms on August 15, 1968: 9. Phenomenological model for substorms},
+journal = {Journal of Geophysical Research (1896-1977)},
+volume = {78},
+number = {16},
+pages = {3131-3149},
+doi = {https://doi.org/10.1029/JA078i016p03131},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/JA078i016p03131},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/JA078i016p03131},
+year = {1973}
+}
+
+@article{Hones_1979,
+  title={Transient phenomena in the magnetotail and their relation to substorms},
+  author={Edward W. Hones},
+  journal={Space Science Reviews},
+  year={1979},
+  volume={23},
+  pages={393-410}
+}
+
+@article{Baker1986MagnetosphericRT,
+  title={Magnetospheric response to the IMF - Substorms},
+  author={Daniel N. Baker and Lee Bargatze and R. D. Zwickl},
+  journal={Journal of geomagnetism and geoelectricity},
+  year={1986},
+  volume={38},
+  pages={1047-1073}
+}
+
+@article{Haiducek2019UsingMS,
+  title={Using Multiple Signatures to Improve Accuracy of Substorm Identification},
+  author={John D. Haiducek and Daniel T. Welling and Steven Karl Morley and Natalia Yu. Ganushkina and Xiangning Chu},
+  journal={Journal of Geophysical Research: Space Physics},
+  year={2019},
+  volume={125}
+}
+
+@article{Farmer1989ExploitingCT,
+  title={Exploiting Chaos to Predict the Future and Reduce Noise},
+  author={J. Doyne Farmer and John J. Sidorowichl},
+  year={1989},
+  journal={Evolution, Learning and Cognition},
+  pages={277-330}
+}
+
+@inproceedings{Casdagli1992ADS,
+  title={A Dynamical Systems Approach to Modeling Input-Output Systems},
+  author={Martin Casdagli},
+  year={1992},
+  book={Nonlinear Modeling and Forecasting},
+  volume={XII of SFI Stud. Sci. Complexity},
+}
+
+@article{Weigend1994TimeSP,
+  title={Time Series Prediction: Forecasting the Future and Understanding the Past},
+  author={Andreas S. Weigend and Neil A. Gershenfeld},
+  journal={Science},
+  year={1994}
+}
+
+@article{Vassiliadis1995ADO,
+  title={A description of the solar wind-magnetosphere coupling based on nonlinear filters},
+  author={Dimitris Vassiliadis and Alexander J. Klimas and Daniel N. Baker and D. Aaron Roberts},
+  journal={Journal of Geophysical Research},
+  year={1995},
+  volume={100},
+  pages={3495-3512}
+}
+
+@article{Baker_1979,
+  title={High‐energy magnetospheric protons and their dependence on geomagnetic and interplanetary conditions},
+  author={Daniel N. Baker and Richard D. Belian and P. R. Higbie and Edward W. Hones},
+  journal={Journal of Geophysical Research},
+  year={1979},
+  volume={84},
+  pages={7138-7154}
+}
+
+@inproceedings{Baker1981GlobalPO,
+  title={Global Properties of the Magnetosphere During a Substorm Growth Phase},
+  author={Daniel N. Baker and P. R. Higbie and Richard D. Belian},
+  year={1981}
+}
+
+@article{Baker1981AHT,
+  title={A high time resolution study of interplanetary parameter correlations with AE},
+  author={Daniel N. Baker and Edward W. Hones and Jane B. Payne and William Charles Feldman},
+  journal={Geophysical Research Letters},
+  year={1981},
+  volume={8},
+  pages={179-182}
+}
+
+@article{Goertz1993PredictionOG,
+  title={Prediction of geomagnetic activity},
+  author={Christoph K. Goertz and Lin-Hua Shan and Robert A. Smith},
+  journal={Journal of Geophysical Research},
+  year={1993},
+  volume={98},
+  pages={7673-7684}
+}
+
+@article{McPherron1993CommentO,
+  title={Comment on “Prediction of geomagnetic activity” by C. K. Goertz, Lin‐Hua Shan, and R. A. Smith},
+  author={Robert L. McPherron and Gordon Rostoker},
+  journal={Journal of Geophysical Research},
+  year={1993},
+  volume={98},
+  pages={7685-7686}
+}
+
+@inproceedings{Chang_1999,
+  title={Self-organized criticality, multi-fractal spectra, sporadic localized reconnections and intermittent turbulence in the magnetotail},
+  author={T. N. Chang},
+  year={1999}
+}
+
+@article{Parrish_2002,
+    doi = {10.2307/1543482},
+    author = {Parrish, JK and Viscido, SV and Grünbaum, D.},
+    journal = {Biol Bull.},
+    title = {Self-organized fish schools: an examination of emergent properties},
+    year = {2002},
+    volume = {202},
+    pages = {296-305},
+
+    number = {3},
+
+}
+
+
+@inproceedings{Consolini_1997,
+  title={Sandpile cellular automata and magnetospheric dynamics},
+  book={Cosmic Physics in the Year 2000},
+  volume={58},
+  author={Giuseppe Consolini},
+  editors={S. Aiello and N. Iucci and G. Sironi and A. Treves and U. Villante},
+  year={1997}
+}
+
+
+@Article{Uritsky_1998,
+AUTHOR = {Uritsky, V. M. and Pudovkin, M. I.},
+TITLE = {Low frequency 1/f-like fluctuations of the AE-index as a possible manifestation of self-organized criticality in the magnetosphere},
+JOURNAL = {Annales Geophysicae},
+VOLUME = {16},
+YEAR = {1998},
+NUMBER = {12},
+PAGES = {1580--1588},
+URL = {https://angeo.copernicus.org/articles/16/1580/1998/},
+DOI = {10.1007/s00585-998-1580-x}
+}
+
+@article{Kamide_1999,
+title = {The size of the polar cap as an indicator of substorm energy},
+journal = {Physics and Chemistry of the Earth, Part C: Solar, Terrestrial \& Planetary Science},
+volume = {24},
+number = {1},
+pages = {119-127},
+year = {1999},
+note = {International Symposium on Solar-Terrestrial Coupling Processes},
+issn = {1464-1917},
+doi = {https://doi.org/10.1016/S1464-1917(98)00018-X},
+url = {https://www.sciencedirect.com/science/article/pii/S146419179800018X},
+author = {Y. Kamide and S. Kokubun and L.F. Bargatze and L.A. Frank},
+abstract = {The area of the polar cap, i.e. the region of open magnetic field lines or, more practically, the region inside the auroral-oval auroral distribution can be a good indicator of the amount of energy in the magnetotail available for magnetospheric substorms. It is shown that the polar cap is not a simple circle during the episodic development of substorms but expands and contracts non-uniformly, depending strongly upon magnetic local time. Variations of the polar cap area under such circumstances represent merely the average around the oval of different time changes in the polar cap boundary location at different local times, in response to solar wind conditions and the substorm phases. It is demonstrated that this non-uniform expansion/contraction of the polar cap can be accounted for in terms of the relative strength of the two constituents of the solar wind-magnetosphere coupling: the directly-driven and unloading processes.}
+}
+
+@article{Tsurutani_1990,
+author = {Tsurutani, Bruce T. and Sugiura, Masahisa and Iyemori, Toshihiko and Goldstein, Bruce E. and Gonzalez, Walter D. and Akasofu, Syun I. and Smith, Edward J.},
+title = {The nonlinear response of AE to the IMF BS driver: A spectral break at 5 hours},
+journal = {Geophysical Research Letters},
+volume = {17},
+number = {3},
+pages = {279-282},
+doi = {https://doi.org/10.1029/GL017i003p00279},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/GL017i003p00279},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/GL017i003p00279},
+abstract = {We demonstrate the existence of a sharp break in the power spectrum of AE at ∼ 5 hours. At frequencies below the break, AE has a ∼ f−1.0 dependence, and at higher frequencies it has a f−2.2 to f−2.4 dependence. The power spectrum of the IMF Bs for the same time interval has a ∼ f−1.4 dependence with no spectral breaks or peaks. Thus, at frequencies above the break, the power in AE varies as f−0.5 to f−0.8 times the power in Bs and at low frequencies it ranges from being f0 (frequency independent) to a f+0.4 times the power in Bs. Several possible explanations of the nonlinear response of AE to the IMF Bs driver are briefly discussed, including: 1) variable ionospheric conductivity (increasing with Bs) for the high frequency regime, and 2) several AE saturation mechanisms for the low frequency regime.},
+year = {1990}
+}
+
+@book{Kaneko_1993,
+  title={Theory and Applications of Coupled Map Lattices},
+  author={Kaneko, K.},
+  isbn={9780471937418},
+  lccn={lc92024346},
+  series={Nonlinear Science: Theory and Applications},
+  url={https://books.google.com/books?id=pqvvAAAAMAAJ},
+  year={1993},
+  publisher={Wiley}
+}
+
+@article{song2006origins,
+  title={Origins of fractality in the growth of complex networks},
+  author={Song, Chaoming and Havlin, Shlomo and Makse, Hern{\'a}n A},
+  journal={Nature physics},
+  volume={2},
+  number={4},
+  pages={275--281},
+  year={2006},
+  publisher={Nature Publishing Group}
+}
+
+@book{holland2000emergence,
+  title={Emergence: From chaos to order},
+  author={Holland, John H},
+  year={2000},
+  publisher={OUP Oxford}
+}
+
+@article{Lockwood_2022,
+author = {Lockwood, Mike},
+title = {Solar Wind-Magnetosphere Coupling Functions: {P}itfalls, Limitations, and Applications},
+journal = {Space Weather},
+volume = {20},
+number = {2},
+pages = {e2021SW002989},
+keywords = {solar wind, magnetosphere, coupling functions, performance metrics, activity distributions},
+doi = {https://doi.org/10.1029/2021SW002989},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021SW002989},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2021SW002989},
+note = {e2021SW002989 2021SW002989},
+abstract = {Abstract Solar wind-magnetosphere coupling functions have now been in use for almost 50 years. In that time, a very large number of formulations have been proposed. As they become increasingly subsumed into systems analysis and machine-learning studies of the magnetosphere, it is timely to establish best practice in their derivation and study their limitations. This paper reports on a number of studies carried out to establish some key points. Particular attention is paid to the best metric used to evaluate their performance and how it depends on the application for which the coupling function is intended.},
+year = {2022}
+}
+
+@article{Newell_2007,
+author = {Newell, P. T. and Sotirelis, T. and Liou, K. and Meng, C.-I. and Rich, F. J.},
+title = {A nearly universal solar wind-magnetosphere coupling function inferred from 10 magnetospheric state variables},
+journal = {Journal of Geophysical Research: Space Physics},
+volume = {112},
+number = {A1},
+pages = {},
+keywords = {coupling, function, prediction},
+doi = {https://doi.org/10.1029/2006JA012015},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2006JA012015},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2006JA012015},
+abstract = {We investigated whether one or a few coupling functions can represent best the interaction between the solar wind and the magnetosphere over a wide variety of magnetospheric activity. Ten variables which characterize the state of the magnetosphere were studied. Five indices from ground-based magnetometers were selected, namely Dst, Kp, AE, AU, and AL, and five from other sources, namely auroral power (Polar UVI), cusp latitude (sin(Λc)), b2i (both DMSP), geosynchronous magnetic inclination angle (GOES), and polar cap size (SuperDARN). These indices were correlated with more than 20 candidate solar wind coupling functions. One function, representing the rate magnetic flux is opened at the magnetopause, correlated best with 9 out of 10 indices of magnetospheric activity. This is dΦMP/dt = v4/3BT2/3sin8/3(θc/2), calculated from (rate IMF field lines approach the magnetopause, ∼v)(\% of IMF lines which merge, sin8/3(θc/2))(interplanetary field magnitude, BT)(merging line length, ∼(BMP/BT)1/3). The merging line length is based on flux matching between the solar wind and a dipole field and agrees with a superposed IMF on a vacuum dipole. The IMF clock angle dependence matches the merging rate reported (albeit with limited statistics) at high altitude. The nonlinearities of the magnetospheric response to BT and v are evident when the mean values of indices are plotted, in scatterplots, and in the superior correlations from dΦMP/dt. Our results show that a wide variety of magnetospheric phenomena can be predicted with reasonable accuracy (r > 0.80 in several cases) ab initio, that is without the time history of the target index, by a single function, estimating the dayside merging rate. Across all state variables studied (including AL, which is hard to predict, and polar cap size, which is hard to measure), dΦMP/dt accounts for about 57.2\% of the variance, compared to 50.9\% for EKL and 48.8\% for vBs. All data sets included at least thousands of points over many years, up to two solar cycles, with just two parameter fits, and the correlations are thus robust. The sole index which does not correlate best with dΦMP/dt is Dst, which correlates best (r = 0.87) with p1/2dΦMP/dt. If dΦMP/dt were credited with this success, its average score would be even higher.},
+year = {2007}
+}
+
+
+@article{Borovsky_2013,
+author = {Borovsky, Joseph E.},
+title = {Physical improvements to the solar wind reconnection control function for the Earth's magnetosphere},
+journal = {Journal of Geophysical Research: Space Physics},
+volume = {118},
+number = {5},
+pages = {2113-2121},
+keywords = {solar wind/magnetosphere coupling, magnetosphere, Cassak-Shay-Birn},
+doi = {https://doi.org/10.1002/jgra.50110},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/jgra.50110},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/jgra.50110},
+abstract = {In a 2008 publication a first principles calculation of the dayside reconnection rate expressed in terms of upstream–solar wind parameters led to a rudimentary solar wind coupling function R1 for the Earth's magnetosphere. Four improvements to that derivation are added in the present paper, resulting in a more correct solar wind control function describing the rate at which solar wind magnetic field lines connect into the Earth's magnetosphere. The first is the inclusion of the effect of β-dependent plasma compressibility on the reconnection rate. The second is a corrected calculation of the inflow of magnetic field lines into the reconnection X-line. The third is a more accurate estimate of the orientation of the reconnection X-line for asymmetric reconnection. The fourth correction accounts for the compression ratio of the Earth's bow shock for arbitrary orientation of the solar wind magnetic field. Two solar wind control functions result: one function, R2CS, is based on the Cassak-Shay equation and another function, R2CSB, is based on the Cassak-Shay-Birn equation. The control functions are tested using solar wind measurements and geomagnetic indices from 1980 to 2012, and some improved correlation coefficients over the rudimentary function R1 are found. Simplified approximations to the new control functions are supplied: one is R2CS-approx = 1.68 × 10−2 sin2(θ/2)no1/2vo2MA−0.3044exp(−[MA/3.18]1/2), where the subscript “o” denotes the solar wind upstream of the bow shock and MA is the solar wind Alfvén Mach number.},
+year = {2013}
+}
+
+@article{McPherron_2015,
+author = {McPherron, Robert L. and Hsu, Tung-Shin and Chu, Xiangning},
+title = {An optimum solar wind coupling function for the {AL} index},
+journal = {Journal of Geophysical Research: Space Physics},
+volume = {120},
+number = {4},
+pages = {2494-2515},
+keywords = {solar wind coupling, prediction filter, prediction efficiency, coupling strength},
+doi = {https://doi.org/10.1002/2014JA020619},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2014JA020619},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/2014JA020619},
+abstract = {Abstract We define a coupling function as a product of solar wind factors that partially linearizes the relation between it and a magnetic index. We consider functions that are a product of factors of solar wind speed V, density N, transverse magnetic field B⊥, and interplanetary magnetic field (IMF) clock angle θc each raised to a different power. The index is the auroral lower (AL index) which monitors the strength of the westward electrojet. Solar wind data 1995–2014 provide hour averages of the factors needed to calculate optimum exponents. Nonlinear inversion determines both the exponents and linear prediction filters of short data segments. The averages of all exponents are taken as optimum exponents and for V, N, B⊥, and sin(θc/2) are [1.92, 0.10, 0.79, 3.67] with errors in the second decimal. Hourly values from 1966 to 2014 are used next to calculate the optimum function (opn) and the functions VBs (eys), epsilon (eps), and universal coupling function (ucf). A yearlong window is advanced by 27 days calculating linear prediction filters for the four functions. The functions eps, eys, ucf, and opn, respectively, predict 43.7, 61.2, 65.6, and 68.3\% of AL variance. The opn function is 2.74\% better than ucf with a confidence interval 2.60–2.86\%. Coupling strength defined as the sum of filter weights (nT/mV/m) is virtually identical for all functions and varies systematically with the solar cycle being strongest (188 nT/mV/m) at solar minimum and weakest (104) at solar maximum. Saturation of the polar cap potential approaching solar maximum may explain the variation.},
+year = {2015}
+}
+
+@article{Levin2021GovernanceIT,
+  title={Governance in the Face of Extreme Events: Lessons from Evolutionary Processes for Structuring Interventions, and the Need to Go Beyond},
+  author={Simon A. Levin and J. Marty Anderies and William Neil Adger and Scott Barrett and Elena M. Bennet and Juan Camilo C{\'a}rdenas and Stephen R. Carpenter and Anne-Sophie Cr{\'e}pin and Paul R. Ehrlich and Joern Fischer and Carl Folke and Nils Kautsky and Catherine L. Kling and Karine Nyborg and Stephen Polasky and Marten Scheffer and Kathleen Segerson and Jason F. Shogren and J.C.J.M. van den Bergh and Brian Walker and Elke U. Weber and James E. Wilen},
+  journal={SSRN Electronic Journal},
+  year={2021}
+}
+
+@article{Scheffer_2018,
+  title={Quantifying resilience of humans and other animals},
+  author={Marten Scheffer and J. Elizabeth Bolhuis and Denny Borsboom and Timothy G. Buchman and Sanne M W Gijzel and Dave Goulson and Jan E. Kammenga and Bas Kemp and Ingrid A. van de Leemput and Simon Asher Levin and Carmel M. Martin and Ren{\'e} J F Melis and Egbert H. van Nes and L. Michael Romero and Marcel G M Olde Rikkert},
+  journal={Proceedings of the National Academy of Sciences of the United States of America},
+  year={2018},
+  volume={115},
+  pages={11883 - 11890}
+}
+
+@article{baggio2015boundary,
+  title={Boundary object or bridging concept? A citation network analysis of resilience},
+  author={Baggio, Jacopo A and Brown, Katrina and Hellebrandt, Denis},
+  journal={Ecology and Society},
+  volume={20},
+  number={2},
+  year={2015},
+  publisher={JSTOR}
+}
+
+
+@article{Promislow_2022,
+  title={Resilience integrates concepts in aging research},
+  author={Daniel E. L. Promislow and Rozalyn M. Anderson and Marten Scheffer and Bernard J. Crespi and James DeGregori and Kelley Harris and B. Natterson Horowitz and Morgan E. Levine and Marianna Riolo and David J. Schneider and Sabrina L. Spencer and Dario Riccardo Valenzano and Michael E. Hochberg},
+  journal={iScience},
+  year={2022},
+  volume={25}
+}
+
+@article{Fischer2022TowardsAD,
+  title={Towards a Data-Driven Estimation of Resilience in Networked Dynamical Systems: Designing a Versatile Testbed},
+  author={Tobias Fischer and Thorsten Rings and M. Reza Rahimi Tabar and Klaus Lehnertz},
+  journal={Frontiers in Network Physiology},
+  year={2022},
+  volume={2}
+}
+
+@article{gunderson2000ecological,
+  title={Ecological resilience--in theory and application},
+  author={Gunderson, Lance H},
+  journal={Annual review of ecology and systematics},
+  pages={425--439},
+  year={2000},
+  publisher={JSTOR}
+}
+
+@article{Paton2000DisasterRR,
+  title={Disaster response: risk, vulnerability and resilience},
+  author={Douglas Paton and Leigh M. Smith and John M. Violanti},
+  journal={Disaster Prevention and Management},
+  year={2000},
+  volume={9},
+  pages={173-179}
+}
+
+@article{Carpenter2001FromMT,
+  title={From Metaphor to Measurement: Resilience of What to What?},
+  author={Steve Carpenter and Brian Walker and J. Marty Anderies and N. Abel},
+  journal={Ecosystems},
+  year={2001},
+  volume={4},
+  pages={765-781}
+}
+
+
+@article{panter2014health,
+  title={Health, risk, and resilience: Interdisciplinary concepts and applications},
+  author={Panter-Brick, Catherine},
+  journal={Annual Review of Anthropology},
+  volume={43},
+  number={1},
+  pages={431--448},
+  year={2014}
+}
+
+
+@article{Hultman_2010,
+author = {Hultman, Nathan E. and Hassenzahl, David M. and Rayner, Steve},
+title = {Climate Risk},
+journal = {Annual Review of Environment and Resources},
+volume = {35},
+number = {1},
+pages = {283-303},
+year = {2010},
+doi = {10.1146/annurev.environ.051308.084029},
+URL = { 
+        https://doi.org/10.1146/annurev.environ.051308.084029
+},
+eprint = { 
+        https://doi.org/10.1146/annurev.environ.051308.084029}}
+
+
+
+@article{Walker2004ResilienceAA,
+  title={Resilience, Adaptability and Transformability in Social–ecological Systems},
+  author={Brian W. Walker and Crawford S. Holling and Stephen R. Carpenter and Ann Kinzig},
+  journal={Ecology and Society},
+  year={2004},
+  volume={9},
+  pages={5}
+}
+
+@article{Bhamra2011ResilienceTC,
+  title={Resilience: the concept, a literature review and future directions},
+  author={Ran Bhamra and Samir Dani and Kevin John Burnard},
+  journal={International Journal of Production Research},
+  year={2011},
+  volume={49},
+  pages={5375 - 5393}
+}
+
+@article{Uritsky_2002,
+author = {Uritsky, Vadim M. and Klimas, Alex J. and Vassiliadis, Dimitris and Chua, Damien and Parks, George},
+title = {Scale-free statistics of spatiotemporal auroral emissions as depicted by POLAR UVI images: Dynamic magnetosphere is an avalanching system},
+journal = {Journal of Geophysical Research: Space Physics},
+volume = {107},
+number = {A12},
+pages = {SMP 7-1-SMP 7-11},
+keywords = {multiscale turbulence, self-organized criticality, substorms, POLAR UVI experiment},
+doi = {https://doi.org/10.1029/2001JA000281},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2001JA000281},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2001JA000281},
+year = {2002}
+}
+
+@article{Klimas1992AND,
+  title={A nonlinear dynamical analogue model of geomagnetic activity},
+  author={Alexander J. Klimas and Daniel N. Baker and D. Aaron Roberts and Donald H. Fairfield and J{\"o}rg B{\"u}chner},
+  journal={Journal of Geophysical Research},
+  year={1992},
+  volume={97},
+  pages={12253-12266}
+}
+
+@article{Klimas1994SubstormRD,
+  title={Substorm recurrence during steady and variable solar wind driving: Evidence for a normal mode in the unloading dynamics of the magnetosphere},
+  author={Alexander J. Klimas and Daniel N. Baker and Dimitris Vassiliadis and D. Aaron Roberts},
+  journal={Journal of Geophysical Research},
+  year={1994},
+  volume={99},
+  pages={14855-14861}
+}
+@article{Klimas_2000b,
+author = {Klimas, A. J. and Valdivia, J. A. and Vassiliadis, D. and Baker, D. N. and Hesse, M. and Takalo, J.},
+title = {Self-organized criticality in the substorm phenomenon and its relation to localized reconnection in the magnetospheric plasma sheet},
+journal = {Journal of Geophysical Research: Space Physics},
+volume = {105},
+number = {A8},
+pages = {18765-18780},
+doi = {https://doi.org/10.1029/1999JA000319},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/1999JA000319},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/1999JA000319},
+year = {2000}
+}
+
+@article{Valdivia2005TheMA,
+  title={The magnetosphere as a complex system},
+  author={Juan Alejandro Valdivia and Jos{\'e} Rogan and V{\'i}ctor Mu{\~n}oz and Benjam{\'i}n A. Toledo and Marina Stepanova},
+  journal={Advances in Space Research},
+  year={2005},
+  volume={51},
+  pages={1934-1941}
+}
+
+@article{Shay1998StructureOT,
+  title={Structure of the dissipation region during collisionless magnetic reconnection},
+  author={Michael A. Shay and James F. Drake and Richard E. Denton and Dieter Biskamp},
+  journal={Journal of Geophysical Research},
+  year={1998},
+  volume={103},
+  pages={9165-9176}
+}
+
+@article{Takalo1993CorrelationDA,
+  title={Correlation dimension and affinity of AE data and bicolored noise},
+  author={Jouni Takalo and J. Timonen and Hannu E. J. Koskinen},
+  journal={Geophysical Research Letters},
+  year={1993},
+  volume={20},
+  pages={1527-1530}
+}
+
+ @article{Nishida_1966,
+title = {ORIGIN OF FLUCTUATIONS IN THE EQUATORIAL ELECTROJET: A NEW TYPE OF GEOMAGNETIC VARIATION},
+author = {Nishida, A and Iwasaki, N and Nagata, T},
+abstractNote = {},
+doi = {},
+url = {https://www.osti.gov/biblio/4445673}, journal = {Ann. Geophys., 22: 478-84(July-Sept. 1966).},
+place = {Country unknown/Code not available},
+year = {1966},
+month = {1}
+} 
+
+@article{Obayashi1968LargescaleEF,
+  title={Large-scale electric field in the magnetosphere},
+  author={Tatsuzo Obayashi and A. Nishida},
+  journal={Space Science Reviews},
+  year={1968},
+  volume={8},
+  pages={3-31}
+}
+
+
+@article{Takalo1994PropertiesOA,
+  title={Properties of AE data and bicolored noise},
+  author={Jouni Takalo and J. Timonen and Hannu E. J. Koskinen},
+  journal={Journal of Geophysical Research},
+  year={1994},
+  volume={99},
+  pages={13239-13249}
+}
+
+@article{BRITTNACHER19971037,
+title = {Auroral observations by the polar Ultraviolet Imager (UVI)},
+journal = {Advances in Space Research},
+volume = {20},
+number = {4},
+pages = {1037-1042},
+year = {1997},
+note = {Results of the IASTP Program},
+issn = {0273-1177},
+doi = {https://doi.org/10.1016/S0273-1177(97)00558-9},
+url = {https://www.sciencedirect.com/science/article/pii/S0273117797005589},
+author = {M. Brittnacher and J. Spann and G. Parks and G. Germany},
+abstract = {The Ultraviolet Imager (UVI) experiment on the Polar spacecraft has been operating since 21 March 1996, and is returning high quality global images of auroral activity. This article presents first images of global aurora from the UVI experiment. We discuss the capabilities of the UVI instrument and how the data can be used to study substorm physics. A preliminary survey of 80 days of UVI images indicates that the dayside auroral activity is intense and dynamic, and occurs as frequently as the nightside activity. These features are demonstrated using the images obtained on 9 April 1996 when the UVI observed simultaneous dayside and nightside activities.}
+}
+
+@article{Lui_2000,
+author = {Lui, A. T. Y. and Chapman, S. C. and Liou, K. and Newell, P. T. and Meng, C. I. and Brittnacher, M. and Parks, G. K.},
+title = {Is the dynamic magnetosphere an avalanching system?},
+journal = {Geophysical Research Letters},
+volume = {27},
+number = {7},
+pages = {911-914},
+doi = {https://doi.org/10.1029/1999GL010752},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/1999GL010752},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/1999GL010752},
+abstract = {The analogy between the dynamic magnetosphere and an avalanche system is examined by using the global auroral energy deposition obtained by the Polar UVI as a measure of the energy output of the magnetosphere. The analysis reveals two types of energy dissipation: those internal to the magnetosphere occurring at all activity levels with no intrinsic scale, and those associated with active times corresponding to global energy dissipation with a characteristic scale. The internal events exhibit the same power law index in both active and quiet times. These features are consistent with a simple avalanche (‘sandpile’) numerical model.},
+year = {2000}
+}
+
+@article{Germany_1997,
+author = {Germany, G. A. and Parks, G. K. and Brittnacher, M. and Cumnock, J. and Lummerzheim, D. and Spann, J. F. and Chen, L. and Richards, P. G. and Rich, F. J.},
+title = {Remote determination of auroral energy characteristics during substorm activity},
+journal = {Geophysical Research Letters},
+volume = {24},
+number = {8},
+pages = {995-998},
+doi = {https://doi.org/10.1029/97GL00864},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/97GL00864},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/97GL00864},
+abstract = {Ultraviolet auroral images from the Ultraviolet Imager (UVI) onboard the POLAR satellite can be used as quantitative remote diagnostics of the auroral regions, yielding estimates of incident energy characteristics, compositional changes, and other higher order data products. Here incident energy estimates derived from UVI are compared with in situ measurements of the same parameters from an overflight by the DMSP F12 satellite coincident with the UVI image times during substorm activity occurring on May 19, 1996. This event was simultaneously observed by WIND, GEOTAIL, INTERBALL, DMSP and NOAA spacecraft as well as by POLAR.},
+year = {1997}
+}
+
+@article{Torr_1995,
+  title={A far ultraviolet imager for the International Solar-Terrestrial Physics Mission},
+  author={Marsha R. Torr and Douglas G. Torr and Muamer Zukic and R. Barry Johnson and Joseph M. Ajello and PETER M. Banks and Ken Clark and Keith D. Cole and Charles E. Keffer and George K. Parks and Bruce T. Tsurutani and James F. Spann},
+  journal={Space Science Reviews},
+  year={1995},
+  volume={71},
+  pages={329-383}
+}
+
+@article{Farrugia1993TheEM,
+  title={The earth's magnetosphere under continued forcing - Substorm activity during the passage of an interplanetary magnetic cloud},
+  author={Charles J. Farrugia and Mervyn P. Freeman and Leonard F. Burlaga and Ronald P. Lepping and Kazue Takahashi},
+  journal={Journal of Geophysical Research},
+  year={1993},
+  volume={98},
+  pages={7657-7671}
+}
+
+@article{Liou_2018,
+author = {Liou, Kan and Sotirelis, Thomas and Richardson, Ian},
+title = {Substorm Occurrence and Intensity Associated With Three Types of Solar Wind Structure},
+journal = {Journal of Geophysical Research: Space Physics},
+volume = {123},
+number = {1},
+pages = {485-496},
+keywords = {substorm occurrence, substorm intensity, coronal mass ejection, high-speed stream, slow solar wind},
+doi = {https://doi.org/10.1002/2017JA024451},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2017JA024451},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/2017JA024451},
+year = {2018}
+}
+
+@article{Freeman2004AMS,
+  title={A minimal substorm model that explains the observed statistical distribution of times between substorms},
+  author={Mervyn P. Freeman and Steven Karl Morley},
+  journal={Geophysical Research Letters},
+  year={2004},
+  volume={31}
+}
+
+@article{Bortnik2016AUA,
+  title={A unified approach to inner magnetospheric state prediction},
+  author={Jacob Bortnik and W. Li and Richard Mansergh Thorne and V. Angelopoulos},
+  journal={Journal of Geophysical Research: Space Physics},
+  year={2016},
+  volume={121},
+  pages={2423 - 2430}
+}
+
+@article{Maimaiti2019ADL,
+  title={A Deep Learning‐Based Approach to Forecast the Onset of Magnetic Substorms},
+  author={Maimaitirebike Maimaiti and B. S. R. Kunduri and John Michael Ruohoniemi and Joseph B. H. Baker and Leanna House},
+  journal={Space Weather},
+  year={2019},
+  volume={17},
+  pages={1534 - 1552}
+}
+
+@article{Chu2017ANN,
+  title={A neural network model of three‐dimensional dynamic electron density in the inner magnetosphere},
+  author={Xiangning Chu and Jacob Bortnik and W. Li and Qianli Ma and R. E. Denton and Chao Yue and V. Angelopoulos and Richard Mansergh Thorne and Fabien Darrouzet and Pavel Ozhogin and Craig A. Kletzing and Yu Wang and J. D. Menietti},
+  journal={Journal of Geophysical Research: Space Physics},
+  year={2017},
+  volume={122},
+  pages={9183 - 9197}
+}
+
+@article{Borovsky_2017,
+author = {Borovsky, Joseph E. and Yakymenko, Kateryna},
+title = {Substorm occurrence rates, substorm recurrence times, and solar wind structure},
+journal = {Journal of Geophysical Research: Space Physics},
+volume = {122},
+number = {3},
+pages = {2973-2998},
+keywords = {substorms, solar wind structure, periodic substorms, random substorms, heliospheric magnetic field},
+doi = {https://doi.org/10.1002/2016JA023625},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2016JA023625},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/2016JA023625},
+year = {2017}
+}
+
+
+@article{Aschwanden2010RECONCILIATIONOW,
+  title={RECONCILIATION OF WAITING TIME STATISTICS OF SOLAR FLARES OBSERVED IN HARD X-RAYS},
+  author={Markus J. Aschwanden and James M. McTiernan},
+  journal={The Astrophysical Journal},
+  year={2010},
+  volume={717},
+  pages={683 - 692}
+}
+
+@article{Chapman1999SignaturesOD,
+  title={Signatures of dual scaling regimes in a simple avalanche model for magnetospheric activity},
+  author={Sandra C. Chapman and Nicholas Wynn Watkins and George Rowlands},
+  journal={Journal of Atmospheric and Solar-Terrestrial Physics},
+  year={1999},
+  volume={63},
+  pages={1361-1370}
+}
+
+@article{Chapman_1998,
+  title={A simple avalanche model as an analogue for magnetospheric activity},
+  author={Sandra C. Chapman and Nicholas Wynn Watkins and Richard Dendy and Per Helander and George Rowlands},
+  journal={Geophysical Research Letters},
+  year={1998},
+  volume={25}
+}
+
+@article{Watkins_2015,
+  title={25 Years of Self-organized Criticality: Concepts and Controversies},
+  author={Nicholas Wynn Watkins and Gunnar Pruessner and Sandra C. Chapman and Norma Bock Crosby and Henrik Jeldtoft Jensen},
+  journal={Space Science Reviews},
+  year={2015},
+  volume={198},
+  pages={3-44}
+}
+
+@article{Angelopoulos_1999,
+author = {Angelopoulos, V. and Mozer, F. S. and Mukai, T. and Tsuruda, K. and Kokubun, S. and Hughes, T. J.},
+title = {On the relationship between bursty flows, current disruption and substorms},
+journal = {Geophysical Research Letters},
+volume = {26},
+number = {18},
+pages = {2841-2844},
+doi = {https://doi.org/10.1029/1999GL900601},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/1999GL900601},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/1999GL900601},
+abstract = {A current disruption (CD) event was observed by the Geotail spacecraft at (X, Y)GSM=(−10.0, 1.9) RE within 1 min from the onset of a substorm. The event was selected as one of four near-Earth current disruption events identified in a search of three years of Geotail data. Fast ion flows accompanied the magnetic field dipolarization, rendering this event a near-Earth bursty bulk flow (BBF) event. The gradient anisotropy of the 30–44 keV ions at the onset of the flow is consistent with an Earthward motion of the heated plasma and agrees with the direction of flux and energy transport. The aurora and the associated electrojet moved from low to high latitudes during substorm expansion. Our observations show that CDs and BBFs are qualitatively similar phenomena in the near-Earth tail, both associated with poleward-moving (classical) auroral substorms.},
+year = {1999}
+}
+
+@article{Hwa_1992,
+  title={Avalanches, hydrodynamics, and discharge events in models of sandpiles.},
+  author={Hwa and Kardar},
+  journal={Physical review. A, Atomic, molecular, and optical physics},
+  year={1992},
+  volume={45 10},
+  pages={7002-7023}
+}
+
+@article{Becker_1995,
+  title={Dynamics of a stochastically driven running sandpile},
+  author={Torsten Becker and Heiko de Vries and Bruno Eckhardt},
+  journal={Journal of Nonlinear Science},
+  year={1995},
+  volume={5},
+  pages={167-188}
+}
+
+@article{Donovan2006TheTA,
+  title={The THEMIS all-sky imaging array—system design and initial results from the prototype imager},
+  author={Eric F. Donovan and Stephen B. Mende and Brian Jackel and Harald U. Frey and Mikko T. Syrj{\"a}suo and I. O. Voronkov and Trond S. Trondsen and Laura Marie Peticolas and Vassilis Angelopoulos and Stewart E. Harris and Michael Greffen and Martin G. Connors},
+  journal={Journal of Atmospheric and Solar-Terrestrial Physics},
+  year={2006},
+  volume={68},
+  pages={1472-1487}
+}
+
+@article{Golovchanskaya2008ScalingBO,
+  title={Scaling behavior of auroral luminosity fluctuations observed by Auroral Large Imaging System (ALIS)},
+  author={Irina Golovchanskaya and Boris V. Kozelov and Tima Sergienko and Urban Brandstrom and Hans Nilsson and Ingrid Sandahl},
+  journal={Journal of Geophysical Research},
+  year={2008},
+  volume={113}
+}
+
+@article{Aschwanden2014GlobalEO,
+  title={Global Energetics of Solar Flares: I. Magnetic Energies},
+  author={Markus J. Aschwanden and Yan Xu and Ju Jing},
+  journal={arXiv: Solar and Stellar Astrophysics},
+  year={2014}
+}
+
+@article{Kozelov2004PowerLP,
+  title={Power law probability distributions of multiscale auroral dynamics from ground‐based TV observations},
+  author={Boris V. Kozelov and Vadim M. Uritsky and Alexander J. Klimas},
+  journal={Geophysical Research Letters},
+  year={2004},
+  volume={31}
+}
+
+@article{Uritsky2007CoexistenceOS,
+  title={Coexistence of self-organized criticality and intermittent turbulence in the solar corona.},
+  author={Vadim M. Uritsky and Maya Paczuski and Joseph M. Davila and Shaela I. Jones},
+  journal={Physical review letters},
+  year={2007},
+  volume={99 2},
+  pages={
+          025001
+        }
+}
+
+@article{Longden2014MagneticLT,
+  title={Magnetic local time variation and scaling of poleward auroral boundary dynamics},
+  author={Nicola Longden and Gareth Chisham and Mervyn P. Freeman},
+  journal={Journal of Geophysical Research: Space Physics},
+  year={2014},
+  volume={119},
+  pages={10,006 - 10,022}
+}
+
+@article{Klimas2010MultiscaleAE,
+  title={Multiscale auroral emission statistics as evidence of turbulent reconnection in Earth's midtail plasma sheet},
+  author={Alexander J. Klimas and Vadim M. Uritsky and Eric F. Donovan},
+  journal={Journal of Geophysical Research},
+  year={2010},
+  volume={115}
+}
+
+@article{Clausen_2018,
+author = {Clausen, Lasse B. N. and Nickisch, Hannes},
+title = {Automatic Classification of Auroral Images From the Oslo Auroral THEMIS (OATH) Data Set Using Machine Learning},
+journal = {Journal of Geophysical Research: Space Physics},
+volume = {123},
+number = {7},
+pages = {5640-5647},
+keywords = {aurora, auroral imaging, machine learning},
+doi = {https://doi.org/10.1029/2018JA025274},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JA025274},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2018JA025274},
+year = {2018}
+}
+
+@article{Kvammen_2020,
+author = {Kvammen, Andreas and Wickstrøm, Kristoffer and McKay, Derek and Partamies, Noora},
+title = {Auroral Image Classification With Deep Neural Networks},
+journal = {Journal of Geophysical Research: Space Physics},
+volume = {125},
+number = {10},
+pages = {e2020JA027808},
+keywords = {aurora classification, deep neural networks, machine learning, automatic aurora labeling, convolutional neural networks, labeled aurora data},
+doi = {https://doi.org/10.1029/2020JA027808},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JA027808},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2020JA027808},
+note = {e2020JA027808 10.1029/2020JA027808},
+year = {2020}
+}
+
+@article{syrjasuo2002analysis,
+  title={Analysis of auroral images: detection and tracking},
+  author={Syrj{\"a}suo, M and Donovan, E},
+  journal={Geophysica},
+  volume={38},
+  number={1-2},
+  pages={3--14},
+  year={2002},
+  publisher={Citeseer}
+}
+
+@article{Syrjsuo2004DiurnalAO,
+  title={Diurnal auroral occurrence statistics obtained via machine vision},
+  author={Mikko T. Syrj{\"a}suo and Eric F. Donovan},
+  journal={Annales Geophysicae},
+  year={2004},
+  volume={22},
+  pages={1103-1113}
+}
+
+@article{Nanjo2022AnAA,
+  title={An automated auroral detection system using deep learning: real-time operation in Troms{\o}, Norway},
+  author={Sota Nanjo and Satonori Nozawa and Masaki Yamamoto and Tetsuya Kawabata and Magnar G. Johnsen and Takuo T. Tsuda and Keisuke Hosokawa},
+  journal={Scientific Reports},
+  year={2022},
+  volume={12}
+}
+
+@article{Galvez2019AML,
+  title={A Machine Learning Dataset Prepared From the NASA Solar Dynamics Observatory Mission},
+  author={Richard Galvez and David F. Fouhey and Meng Jin and Alexandre Szenicer and Andr{\'e}s Mu{\~n}oz-Jaramillo and Mark C. M. Cheung and Paul J. Wright and Monica G. Bobra and Yang Liu and James Mason and Rajat Mani Thomas},
+  journal={ArXiv},
+  year={2019},
+  volume={abs/1903.04538}
+}
+
+@article{Brown_2022,
+author = {Brown, Edward J. E. and Svoboda, Filip and Meredith, Nigel P. and Lane, Nicholas and Horne, Richard B.},
+title = {Attention-Based Machine Vision Models and Techniques for Solar Wind Speed Forecasting Using Solar EUV Images},
+journal = {Space Weather},
+volume = {20},
+number = {3},
+pages = {e2021SW002976},
+keywords = {machine learning, solar wind speed, solar images, computer vision, vision transformer, coronal holes},
+doi = {https://doi.org/10.1029/2021SW002976},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021SW002976},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2021SW002976},
+note = {e2021SW002976 2021SW002976},
+year = {2022}
+}
+
+@article{Upendran2020SolarWP,
+  title={Solar Wind Prediction Using Deep Learning},
+  author={Vishal Upendran and Mark C. M. Cheung and Shravan M. Hanasoge and Ganapathy Krishnamurthi},
+  journal={Space Weather},
+  year={2020},
+  volume={18}
+}
+
+@article{Armstrong2019FastSI,
+  title={Fast Solar Image Classification Using Deep Learning and Its Importance for Automation in Solar Physics},
+  author={John A. Armstrong and Lyndsay Fletcher},
+  journal={Solar Physics},
+  year={2019},
+  volume={294},
+  pages={1-23}
+}
+
+@article{Liemohn2021RMSEIN,
+  title={RMSE is not enough: Guidelines to robust data-model comparisons for magnetospheric physics},
+  author={Michael W. Liemohn and Alexander D. Shane and Abigail R. Azari and Alicia K. Petersen and Brian M. Swiger and Agnit Mukhopadhyay},
+  journal={Journal of Atmospheric and Solar-Terrestrial Physics},
+  year={2021}
+}
+
+@article{Liemohn2018ModelEG,
+  title={Model Evaluation Guidelines for Geomagnetic Index Predictions},
+  author={Michael W. Liemohn and James P. McCollough and Vania Koleva Jordanova and Chigomezyo M. Ngwira and Steven Karl Morley and Consuelo Cid and W. Kent Tobiska and Peter Wintoft and Natalia Yu. Ganushkina and Daniel T. Welling and S. Bingham and Michael A. Balikhin and Hermann J. Opgenoorth and Miles A. Engel and Robert S. Weigel and Howard J. Singer and Dalia Bure{\vs}ov{\'a} and Sean Bruinsma and Irina S. Zhelavskaya and Yuri Y. Shprits and Ruggero Vasile},
+  journal={Space Weather},
+  year={2018},
+  volume={16},
+  pages={2079 - 2102}
+}
+
+@article{McGranaghan_2021,
+author = {McGranaghan, Ryan M. and Ziegler, Jack and Bloch, Téo and Hatch, Spencer and Camporeale, Enrico and Lynch, Kristina and Owens, Mathew and Gjerloev, Jesper and Zhang, Binzheng and Skone, Susan},
+title = {Toward a Next Generation Particle Precipitation Model: Mesoscale Prediction Through Machine Learning (a Case Study and Framework for Progress)},
+journal = {Space Weather},
+volume = {19},
+number = {6},
+pages = {e2020SW002684},
+keywords = {data science, evaluation, machine learning, magnetosphere-ionosphere coupling, particle precipitation, space weather},
+doi = {https://doi.org/10.1029/2020SW002684},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020SW002684},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2020SW002684},
+note = {e2020SW002684 2020SW002684},
+year = {2021}
+}
+
+@article{deMichelis2015MagneticFF,
+  title={Magnetic field fluctuation features at Swarm's altitude: A fractal approach},
+  author={Paola de Michelis and Giuseppe Consolini and Roberta Tozzi},
+  journal={Geophysical Research Letters},
+  year={2015},
+  volume={42},
+  pages={3100 - 3105}
+}
+
+@article{Consolini2008OnTE,
+  title={On the Earth’s magnetospheric dynamics: Nonequilibrium evolution and the fluctuation theorem},
+  author={Giuseppe Consolini and Paola De Michelis and Roberta Tozzi},
+  journal={Journal of Geophysical Research},
+  year={2008},
+  volume={113}
+}
+
+@article{Chapman2004RobustnessAS,
+  title={Robustness and scaling: key observables in the complex dynamic magnetosphere},
+  author={Sandra C. Chapman and Richard Dendy and Nicholas Wynn Watkins},
+  journal={Plasma Physics and Controlled Fusion},
+  year={2004},
+  volume={46}
+}
+
+@article{Borovsky2019CompactingTD,
+  title={Compacting the description of a time-dependent multivariable system and its multivariable driver by reducing the state vectors to aggregate scalars: the Earth's solar-wind-driven magnetosphere},
+  author={Joseph E. Borovsky and Adnane Osmane},
+  journal={Nonlinear Processes in Geophysics},
+  year={2019},
+  volume={26},
+  pages={429-443}
+}
+
+@article{Meng_2021,
+author = {Meng, Xing and Verkhoglyadova, Olga P.},
+title = {Quantifying Contributions of External Drivers to the Global Ionospheric State},
+journal = {Space Weather},
+volume = {19},
+number = {9},
+pages = {e2021SW002752},
+doi = {https://doi.org/10.1029/2021SW002752},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021SW002752},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2021SW002752},
+note = {e2021SW002752 2021SW002752},
+year = {2021}
+}
+
+@article{Papadimitriou2020DynamicalCO,
+  title={Dynamical Complexity of the 2015 St. Patrick’s Day Magnetic Storm at Swarm Altitudes Using Entropy Measures},
+  author={Constantinos Papadimitriou and Georgios Balasis and Adamantia Zoe Boutsi and Ioannis A. Daglis and Omiros Giannakis and Anastasios Anastasiadis and Paola De Michelis and Giuseppe Consolini},
+  journal={Entropy},
+  year={2020},
+  volume={22}
+}
+
+@article{Bornmann2021GrowthRO,
+  title={Growth rates of modern science: a latent piecewise growth curve approach to model publication numbers from established and new literature databases},
+  author={Lutz Bornmann and Ruediger Mutz and Robin Haunschild},
+  journal={Humanities and Social Sciences Communications},
+  year={2021},
+  volume={8},
+  pages={1-15}
+}
+
+@article{Blei_2003,
+author = {Blei, David M. and Ng, Andrew Y. and Jordan, Michael I.},
+title = {Latent Dirichlet Allocation},
+year = {2003},
+issue_date = {3/1/2003},
+publisher = {JMLR.org},
+volume = {3},
+number = {null},
+issn = {1532-4435},
+abstract = {We describe latent Dirichlet allocation (LDA), a generative probabilistic model for collections of discrete data such as text corpora. LDA is a three-level hierarchical Bayesian model, in which each item of a collection is modeled as a finite mixture over an underlying set of topics. Each topic is, in turn, modeled as an infinite mixture over an underlying set of topic probabilities. In the context of text modeling, the topic probabilities provide an explicit representation of a document. We present efficient approximate inference techniques based on variational methods and an EM algorithm for empirical Bayes parameter estimation. We report results in document modeling, text classification, and collaborative filtering, comparing to a mixture of unigrams model and the probabilistic LSI model.},
+journal = {J. Mach. Learn. Res.},
+month = {mar},
+pages = {993–1022},
+numpages = {30}
+}
+
+@article{Boccaletti_2006,
+title = {Complex networks: Structure and dynamics},
+journal = {Physics Reports},
+volume = {424},
+number = {4},
+pages = {175-308},
+year = {2006},
+issn = {0370-1573},
+doi = {https://doi.org/10.1016/j.physrep.2005.10.009},
+url = {https://www.sciencedirect.com/science/article/pii/S037015730500462X},
+author = {S. Boccaletti and V. Latora and Y. Moreno and M. Chavez and D.-U. Hwang},
+abstract = {Coupled biological and chemical systems, neural networks, social interacting species, the Internet and the World Wide Web, are only a few examples of systems composed by a large number of highly interconnected dynamical units. The first approach to capture the global properties of such systems is to model them as graphs whose nodes represent the dynamical units, and whose links stand for the interactions between them. On the one hand, scientists have to cope with structural issues, such as characterizing the topology of a complex wiring architecture, revealing the unifying principles that are at the basis of real networks, and developing models to mimic the growth of a network and reproduce its structural properties. On the other hand, many relevant questions arise when studying complex networks’ dynamics, such as learning how a large ensemble of dynamical systems that interact through a complex wiring topology can behave collectively. We review the major concepts and results recently achieved in the study of the structure and dynamics of complex networks, and summarize the relevant applications of these ideas in many different disciplines, ranging from nonlinear science to biology, from statistical mechanics to medicine and engineering.}
+}
+
+@article{Hughes_2022,
+author = {Hughes, Joseph and McGranaghan, Ryan and Kellerman, Adam C. and Bortnik, Jacob and Arrit, Robert F. and Venkataramani, Karthik and Perry, Charles H. and McCormick, Jackson and Ngwira, Chigomezyo M. and Cohen, Morris},
+title = {Revealing Novel Connections Between Space Weather and the Power Grid: Network Analysis of Ground-Based Magnetometer and Geomagnetically Induced Currents (GIC) Measurements},
+journal = {Space Weather},
+volume = {20},
+number = {2},
+pages = {e2021SW002727},
+keywords = {GIC, network analysis},
+doi = {https://doi.org/10.1029/2021SW002727},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021SW002727},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2021SW002727},
+note = {e2021SW002727 2021SW002727},
+year = {2022}
+}
+
+@book{biggs1986graph,
+  title={Graph Theory, 1736-1936},
+  author={Biggs, N. and Lloyd, E.K. and Wilson, R.J.},
+  isbn={9780198539162},
+  lccn={76483372},
+  url={https://books.google.com/books?id=XqYTk0sXmpoC},
+  year={1986},
+  publisher={Clarendon Press}
+}
+
+@article{Erdos1984OnTE,
+  title={On the evolution of random graphs},
+  author={Paul L. Erdos and Alfr{\'e}d R{\'e}nyi},
+  journal={Transactions of the American Mathematical Society},
+  year={1984},
+  volume={286},
+  pages={257-257}
+}
+
+@article{Watts1998CollectiveDO,
+  title={Collective dynamics of ‘small-world’ networks},
+  author={Duncan J. Watts and Steven H. Strogatz},
+  journal={Nature},
+  year={1998},
+  volume={393},
+  pages={440-442}
+}
+
+@article{Barabsi1999EmergenceOS,
+  title={Emergence of scaling in random networks},
+  author={Barab{\'a}si and Albert},
+  journal={Science},
+  year={1999},
+  volume={286 5439},
+  pages={
+          509-12
+        }
+}
+
+@article{Milgram1967TheSW,
+  title={The Small World Problem},
+  author={Sharon Milgram},
+  journal={Psychology today},
+  year={1967},
+  volume={2},
+  pages={60-67}
+}
+
+@article{Tsonis_2006,
+  title={What Do Networks Have to Do with Climate},
+  author={Anastasios A. Tsonis and Kyle L. Swanson and Paul Roebber},
+  journal={Bulletin of the American Meteorological Society},
+  year={2006},
+  volume={87},
+  pages={585-595}
+}
+
+@article{Donges_2009,
+  title={The backbone of the climate network},
+  author={Jonathan F. Donges and Yong Zou and Norbert Marwan and Juergen Kurths},
+  journal={EPL (Europhysics Letters)},
+  year={2009},
+  volume={87},
+  pages={48007}
+}
+
+@article{Steinhaeuser_2011,
+  title={Multivariate and multiscale dependence in the global climate system revealed through complex networks},
+  author={Karsten Steinhaeuser and Auroop Ratan Ganguly and N. Chawla},
+  journal={Climate Dynamics},
+  year={2011},
+  volume={39},
+  pages={889-895}
+}
+
+@article{Malik_2011,
+  title={Analysis of spatial and temporal extreme monsoonal rainfall over South Asia using complex networks},
+  author={Nishant Malik and Bodo Bookhagen and Norbert Marwan and J{\"u}rgen Kurths},
+  journal={Climate Dynamics},
+  year={2011},
+  volume={39},
+  pages={971-987}
+}
+
+@book{national2011cedar,
+  title={CEDAR: The New Dimension : Strategic Vision for the National Science Foundation Program on Coupling, Energetics and Dynamics of Atmospheric Regions},
+  author={National Science Foundation (U.S.)},
+  url={https://books.google.com/books?id=Y-w9twAACAAJ},
+  year={2011},
+  publisher={National Science Foundation}
+}
+
+
+@article{Gjerloev_2009,
+author = {Gjerloev, J. W.},
+title = {A Global Ground-Based Magnetometer Initiative},
+journal = {Eos, Transactions American Geophysical Union},
+volume = {90},
+number = {27},
+pages = {230-231},
+keywords = {SuperMAG, magnetometers},
+doi = {https://doi.org/10.1029/2009EO270002},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2009EO270002},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2009EO270002},
+abstract = {With the motto “Knowledge is the common wealth of humanity,” the 2007–2008 Electronic Geophysical Year (eGY) advocated that scientists have the responsibility to create and implement strategies that utilize the full potential of digital capabilities in providing information for present and future generations. Although eGY has officially ended, the geomagnetic research community continues to support the goals of eGY through a global ground-based magnetometer initiative. This initiative, called SuperMAG, helps scientists have easy access to measurements of the Earth's magnetic field.},
+year = {2009}
+}
+
+@inbook{Brillinger2001TimeS,
+  title={Time series - data analysis and theory},
+  author={David R. Brillinger},
+  booktitle={Classics in applied mathematics},
+  year={2001}
+}
+
+@article{Gjerloev2014TheLC,
+  title={The large‐scale current system during auroral substorms},
+  author={Jesper W. Gjerloev and Robert Hoffman},
+  journal={Journal of Geophysical Research: Space Physics},
+  year={2014},
+  volume={119},
+  pages={4591 - 4606}
+}
+
+@article{Dods_2017,
+  title={Characterizing the ionospheric current pattern response to southward and northward IMF turnings with dynamical SuperMAG correlation networks},
+  author={J. Espie Dods and Sandra C. Chapman and Jesper W. Gjerloev},
+  journal={Journal of Geophysical Research: Space Physics},
+  year={2017},
+  volume={122},
+  pages={1883 - 1902}
+}
+
+@article{Dungey_1961,
+  title={Interplanetary Magnetic Field and the Auroral Zones},
+  author={James W. Dungey},
+  journal={Physical Review Letters},
+  year={1961},
+  volume={6},
+  pages={47-48}
+}
+
+@article{Ridley1997IonosphericCD,
+  title={Ionospheric convection during nonsteady interplanetary magnetic field conditions},
+  author={Aaron J. Ridley and Gang Lu and C. Robert Clauer and Vladimir O. Papitashvili},
+  journal={Journal of Geophysical Research},
+  year={1997},
+  volume={102},
+  pages={14563-14579}
+}
+
+@article{Lockwood_1986,
+author = {Lockwood, M. and van Eyken, A. P. and Bromage, B. J. I. and Willis, D. M. and Cowley, S. W. H.},
+title = {Eastward propagation of a plasma convection enhancement following a southward turning of the interplanetary magnetic field},
+journal = {Geophysical Research Letters},
+volume = {13},
+number = {1},
+pages = {72-75},
+doi = {https://doi.org/10.1029/GL013i001p00072},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/GL013i001p00072},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/GL013i001p00072},
+year = {1986}
+}
+
+@article{Ridley1998ASS,
+  title={A statistical study of the ionospheric convection response to changing interplanetary magnetic field conditions using the assimilative mapping of ionospheric electrodynamics technique},
+  author={Aaron J. Ridley and Gang Lu and C. Robert Clauer and Vladimir O. Papitashvili},
+  journal={Journal of Geophysical Research},
+  year={1998},
+  volume={103},
+  pages={4023-4039}
+}
+
+@article{Orr_2021GIC,
+author = {Orr, L. and Chapman, S. C. and Beggan, C. D.},
+title = {Wavelet and Network Analysis of Magnetic Field Variation and Geomagnetically Induced Currents During Large Storms},
+journal = {Space Weather},
+volume = {19},
+number = {9},
+pages = {e2021SW002772},
+keywords = {space weather, ground induced currents, networks, wavelets},
+doi = {https://doi.org/10.1029/2021SW002772},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021SW002772},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2021SW002772},
+note = {e2021SW002772 2021SW002772},
+year = {2021}
+}
+
+@article{Orr_2019,
+author = {Orr, L. and Chapman, S. C. and Gjerloev, J. W.},
+title = {Directed Network of Substorms Using SuperMAG Ground-Based Magnetometer Data},
+journal = {Geophysical Research Letters},
+volume = {46},
+number = {12},
+pages = {6268-6278},
+keywords = {substorms, networks, correlation, ground magnetometers, SuperMAG},
+doi = {https://doi.org/10.1029/2019GL082824},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019GL082824},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2019GL082824},
+abstract = {Abstract We quantify the spatiotemporal evolution of the substorm ionospheric current system utilizing the SuperMAG 100+ magnetometers. We construct dynamical directed networks from this data for the first time. If the canonical cross-correlation between vector magnetic field perturbations observed at two magnetometer stations exceeds a threshold, they form a network connection. The time lag at which canonical cross-correlation is maximal determines the direction of propagation or expansion of the structure captured by the network connection. If spatial correlation reflects ionospheric current patterns, network properties can test different models for the evolving substorm current system. We select 86 isolated substorms based on nightside ground station coverage. We find, and obtain the timings for, a consistent picture in which the classic substorm current wedge forms. A current system is seen premidnight following the substorm current wedge westward expansion. Later, there is a weaker signal of eastward expansion. Finally, there is evidence of substorm-enhanced convection.},
+year = {2019}
+}
+
+@article{Orr_2021b,
+  title={Network community structure of substorms using SuperMAG magnetometers},
+  author={L. Orr and Sandra C. Chapman and Jesper W. Gjerloev and Wei Guo},
+  journal={Nature Communications},
+  year={2021},
+  volume={12}
+}
+
+@article{Gell-Mann_1995,
+author = {Gell-Mann, Murray},
+title = {What is complexity? Remarks on simplicity and complexity by the Nobel Prize-winning author of The Quark and the Jaguar},
+journal = {Complexity},
+volume = {1},
+number = {1},
+pages = {16-19},
+doi = {https://doi.org/10.1002/cplx.6130010105},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/cplx.6130010105},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/cplx.6130010105},
+year = {1995}
+}
+
+
+
+@article{Sharma201625YO,
+  title={25 Years of Self-organized Criticality: {S}pace and Laboratory Plasmas},
+  author={A. Surjalal Sharma and Markus J. Aschwanden and Norma Bock Crosby and Alexander J. Klimas and Alexander V. Milovanov and Laura Morales and Ra{\'u}l S{\'a}nchez and Vadim M. Uritsky},
+  journal={Space Science Reviews},
+  year={2016},
+  volume={198},
+  pages={167-216}
+}
+
+@book{Aschwanden2011SelfOrganizedCI,
+  title={Self-Organized Criticality in Astrophysics: {T}he Statistics of Nonlinear Processes in the Universe},
+  author={Aschwanden, M.},
+  isbn={9783642150012},
+  series={Springer Praxis Books},
+  url={https://books.google.com/books?id=eNM1OylCljIC},
+  year={2011},
+  publisher={Springer Berlin Heidelberg}
+}
+
+@article{Aschwanden2019SelforganizedCI,
+  title={Self-organized Criticality in Solar and Stellar Flares: Are Extreme Events Scale-free?},
+  author={Markus J. Aschwanden},
+  journal={The Astrophysical Journal},
+  year={2019},
+  volume={880}
+}
+
+@article{McAteer201525YO,
+  title={25 Years of Self-organized Criticality: Numerical Detection Methods},
+  author={R. T. James McAteer and Markus J. Aschwanden and Michaila Dimitropoulou and Manolis K. Georgoulis and Gunnar Pruessner and Laura Morales and Jack Ireland and Valentyna I. Abramenko},
+  journal={Space Science Reviews},
+  year={2015},
+  volume={198},
+  pages={217-266}
+}
+
+@article{Scheffer2009EarlywarningSF,
+  title={Early-warning signals for critical transitions},
+  author={Marten Scheffer and Jordi Bascompte and William A. Buz Brock and Victor A. Brovkin and Stephen R. Carpenter and Vasilis Dakos and Hermann Held and Egbert H. van Nes and Max Rietkerk and George Sugihara},
+  journal={Nature},
+  year={2009},
+  volume={461},
+  pages={53-59}
+}
+
+@article{Schunk2021ChallengesIS,
+  title={Challenges in Specifying and Predicting Space Weather},
+  author={R. W. Schunk and L. Scherliess and V. Eccles and Larry Gardner and Jan J. Sojka and L. Zhu and X. Pi and Anthony James Mannucci and A. Komjathy and C. Wang and Gary Rosen},
+  journal={Space Weather},
+  year={2021},
+  volume={19}
+}
+
+@article{Srivastava2021EditorialSW,
+  title={Editorial: Space Weather Prediction: Challenges and Prospects},
+  author={Nandita Srivastava and Marilena Mierla and J. Zhang},
+  journal={Frontiers in Astronomy and Space Sciences},
+  year={2021},
+  doi={10.3389/fspas.2021.818878}
+}
+
+@article{Palmerio2022CMEsAS,
+  title={CMEs and SEPs During November‐December 2020: A Challenge for Real‐Time Space Weather Forecasting},
+  author={Erika Palmerio and Christina O. Lee and M. Leila Mays and Janet G. Luhmann and David Lario and Beatriz S'anchez-Cano and Ian G. Richardson and Rami Vainio and Michael Louis Stevens and Christina M. S. Cohen and Konrad Steinvall and Christian M{\"o}stl and Andreas J. Weiss and Teresa Nieves‐Chinchilla and Yan Li and Davin E. Larson and Daniel Heyner and Stuart. D. Bale and Antoinette B. Galvin and Mats Holmstr{\"o}m and Yu. V. Khotyaintsev and Milan Maksimovi{\'c} and Igor G. Mitrofanov},
+  journal={Space Weather},
+  year={2022},
+  volume={20}
+}
+
+@article{Stephens_2019,
+author = {Stephens, G. K. and Sitnov, M. I. and Korth, H. and Tsyganenko, N. A. and Ohtani, S. and Gkioulidou, M. and Ukhorskiy, A. Y.},
+title = {Global Empirical Picture of Magnetospheric Substorms Inferred From Multimission Magnetometer Data},
+journal = {Journal of Geophysical Research: Space Physics},
+volume = {124},
+number = {2},
+pages = {1085-1110},
+keywords = {substorms, data mining, current sheet thinning, magnetotail dipolarization, substorm current wedge, storm-substorm relationship},
+doi = {https://doi.org/10.1029/2018JA025843},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JA025843},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2018JA025843},
+abstract = {Abstract Magnetospheric substorms represent key explosive processes in the interaction of the Earth's magnetosphere with the solar wind, and their understanding and modeling are critical for space weather forecasting. During substorms, the magnetic field on the nightside is first stretched in the antisunward direction and then it rapidly contracts earthward bringing hot plasmas from the distant space regions into the inner magnetosphere, where they contribute to geomagnetic storms and Joule dissipation in the polar ionosphere, causing impressive splashes of aurora. Here we show for the first time that mining millions of spaceborne magnetometer data records from multiple missions allows one to reconstruct the global 3-D picture of these stretching and dipolarization processes. Stretching results in the formation of a thin (less than the Earth's radius) and strong current sheet, which is diverted into the ionosphere during dipolarization. In the meantime, the dipolarization signal propagates further into the inner magnetosphere resulting in the accumulation of a longer lived current there, giving rise to a protogeomagnetic storm. The global 3-D structure of the corresponding substorm currents including the substorm current wedge is reconstructed from data.},
+year = {2019}
+}
+
+@article{Topliff2020SimultaneouslyFG,
+  title={Simultaneously forecasting global geomagnetic activity using Recurrent Networks},
+  author={Charles Topliff and Morris B. Cohen and William A. Bristow},
+  journal={ArXiv},
+  year={2020},
+  volume={abs/2010.06487}
+}
+
+@article{Lundstedt1994PredictionOG,
+  title={Prediction of geomagnetic storms from solar wind data with the use of a neural network},
+  author={Henrik Lundstedt and Peter Wintoft},
+  journal={Annales Geophysicae},
+  year={1994},
+  volume={12},
+  pages={19-24}
+}
+
+@article{Wissel2004AUL,
+  title={A universal law of the characteristic return time near thresholds},
+  author={Christian Wissel},
+  journal={Oecologia},
+  year={2004},
+  volume={65},
+  pages={101-107}
+}
+
+@article{Carpenter2006RisingVA,
+  title={Rising variance: a leading indicator of ecological transition.},
+  author={Stephen R. Carpenter and William A. Buz Brock},
+  journal={Ecology letters},
+  year={2006},
+  volume={9 3},
+  pages={
+          311-8
+        }
+}
+
+@article{Litt2001EpilepticSM,
+  title={Epileptic Seizures May Begin Hours in Advance of Clinical Onset A Report of Five Patients},
+  author={Brian Litt and Rosana Esteller and Javier R. Echauz and Maryann D'Alessandro and Rachel Shor and Thomas R. Henry and Page B Pennell and Charles M. Epstein and Roy A. E. Bakay and Marc A. Dichter and George J. Vachtsevanos},
+  journal={Neuron},
+  year={2001},
+  volume={30},
+  pages={51-64}
+}
+
+@article{Kambhu2007NewDF,
+  title={New directions for understanding systemic risk: a report on a conference cosponsored by the Federal Reserve Bank of New York and the National Academy of Sciences},
+  author={John Kambhu and Scott T. Weidman and Neel Krishnan},
+  journal={Economic and Policy Review},
+  year={2007},
+  volume={13},
+  pages={83}
+}
+
+@article{Lenton2008TippingEI,
+  title={Tipping elements in the Earth's climate system},
+  author={Timothy M. Lenton and Hermann Held and Elmar Kriegler and Jim W Hall and Wolfgang Lucht and Stefan Rahmstorf and Hans Joachim Schellnhuber},
+  journal={Proceedings of the National Academy of Sciences},
+  year={2008},
+  volume={105},
+  pages={1786 - 1793}
+}
+
+@article{Grzes2021BuildingAA,
+  title={Building {astroBERT}, a language model for Astronomy \& Astrophysics},
+  author={F{\'e}lix Gr{\`e}zes and Sergi Blanco-Cuaresma and Alberto Accomazzi and Michael J. Kurtz and Golnaz Shapurian and Edwin A. Henneken and Carolyn S. Grant and Donna M. Thompson and Roman Chyla and Stephen McDonald and Timothy W. Hostetler and Matthew R. Templeton and Kelly E. Lockhart and Nemanja Martinovic and Shinyi Chen and Christy Tanner and Pavlos Protopapas},
+  journal={ArXiv},
+  year={2021},
+  volume={abs/2112.00590}
+}
+
+@article{Devlin2019BERTPO,
+  title={BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding},
+  author={Jacob Devlin and Ming-Wei Chang and Kenton Lee and Kristina Toutanova},
+  journal={ArXiv},
+  year={2019},
+  volume={abs/1810.04805}
+}
+
+@inproceedings{Beltagy2019SciBERTAP,
+  title={SciBERT: A Pretrained Language Model for Scientific Text},
+  author={Iz Beltagy and Kyle Lo and Arman Cohan},
+  booktitle={Conference on Empirical Methods in Natural Language Processing},
+  year={2019}
+}
+
+@article{Ladyman2020WhatIA,
+  title={What is a complex system?},
+  author={James Ladyman and James Lambert and Karoline Wiesner},
+  journal={European Journal for Philosophy of Science},
+  year={2020},
+  volume={3},
+  pages={33-67}
+}
+
+@article{Shannon1948AMT,
+  title={A mathematical theory of communication},
+  author={Claude E. Shannon},
+  journal={Bell Syst. Tech. J.},
+  year={1948},
+  volume={27},
+  pages={623-656}
+}
+
+@book{Page_2011,
+url = {https://doi.org/10.1515/9781400835140},
+title = {Diversity and Complexity},
+author = {Scott Page},
+publisher = {Princeton University Press},
+address = {Princeton},
+doi = {doi:10.1515/9781400835140},
+isbn = {9781400835140},
+year = {2011},
+lastchecked = {2023-02-15}
+}
+
+
+@book{meadows2008thinking,
+  title={Thinking in Systems: A Primer},
+  author={Meadows, D.H. and Wright, D.},
+  isbn={9781603580557},
+  url={https://books.google.com/books?id=CpbLAgAAQBAJ},
+  year={2008},
+  publisher={Chelsea Green Pub.}
+}
+
+@article{Mcgranaghan2022ConvergingTS,
+  title={Converging Toward Solutions to Grand Challenges},
+  author={Ryan McGranaghan and Adam Laurens Kellerman and Mark Walter Olson},
+  journal={Eos},
+  year={2022}
+}
+
+@book{Newman2010NetworksAI,
+  title={Networks: An Introduction},
+  author={Mark E. J. Newman},
+  year={2010}
+}
+
+@book{Gregersen2002FromCT,
+  title={From Complexity to Life: On The Emergence of Life and Meaning},
+  author={Niels Henrik Gregersen},
+  year={2002}
+}
+
+@book{Zurek1990ComplexityEA,
+  title={Complexity, Entropy and the Physics of Information},
+  author={Wojciech H. Zurek},
+  year={1990}
+}
+
+@book{krakauer2018worlds,
+  title={Worlds Hidden in Plain Sight: The Evolving Idea of Complexity at the Santa Fe Institute, 1984-2019},
+  author={Krakauer, D.C.},
+  isbn={9781947864146},
+  url={https://books.google.com/books?id=yAMwtwEACAAJ},
+  year={2018},
+  publisher={Santa Fe Institute of Science}
+}
+
+@book{Hofstadter1999,
+author = {Hofstadter, Douglas R.},
+title = {Godel Escher Bach: An Eternal Golden Braid},
+year = {1999},
+isbn = {0465026567},
+publisher = {Basic Books, Inc.},
+address = {USA},
+abstract = {From the Publisher:This groundbreaking Pulitzer Prize-winning book sets the standard for interdisciplinary writing, exploring the patterns and symbols in the thinking of mathematician Kurt Godel, artist M.C. Escher, and composer Johann Sebastian Bach.}
+}
+
+@incollection{DEMIREL2019573,
+title = {Chapter 12 - Stability Analysis},
+editor = {Yaşar Demirel and Vincent Gerbaud},
+booktitle = {Nonequilibrium Thermodynamics (Fourth Edition)},
+publisher = {Elsevier},
+edition = {Fourth Edition},
+pages = {573-602},
+year = {2019},
+isbn = {978-0-444-64112-0},
+doi = {https://doi.org/10.1016/B978-0-444-64112-0.00012-5},
+url = {https://www.sciencedirect.com/science/article/pii/B9780444641120000125},
+author = {Yaşar Demirel and Vincent Gerbaud},
+keywords = {Evolution criterion, Linear stability analysis, Lyapunov stability, The Gibbs stability theory, Thermal stability, Thermodynamic fluctuations},
+abstract = {This chapter reviews the stability analysis based on the conventional Gibbs approach considering the stability of equilibrium, near equilibrium, and far from equilibrium states with some case studies. The entropy production approach for nonequilibrium systems appears to be more general for stability analysis. One major implication of the nonequilibrium thermodynamics theory is the introduction of the distance from global equilibrium as a constraint for determining the stability of nonequilibrium systems. When a system is far from global equilibrium, the possibility of new organized structures of matter arise beyond an instability point. Nonequilibrium conditions may occur with respect to disturbances in the interior of a system, or between a system and its surroundings. As a result, the local stress, strain, temperature, concentration, and energy density may vary at each instance in time. This may lead to instability in space and time. Constantly changing properties cannot be described properly by referring to the system. Some averaging of the properties in space and time is necessary. Such averages need to be clearly stated in the utilization and correlation of experimental data, especially when their interpretations are associated with theories that are valid at equilibrium.}
+}
+
+@book{Scheffer2009CriticalTI,
+  title={Critical Transitions in Nature and Society},
+  author={Marten Scheffer},
+  year={2009}
+}
+
+@ARTICLE{Lloyd_2001,
+  author={Lloyd, S.},
+  journal={IEEE Control Systems Magazine}, 
+  title={Measures of complexity: a nonexhaustive list}, 
+  year={2001},
+  volume={21},
+  number={4},
+  pages={7-8},
+  doi={10.1109/MCS.2001.939938}}
+
+@article{LpezRuiz1995ASM,
+  title={A Statistical Measure of Complexity},
+  author={Ricardo L{\'o}pez-Ruiz and H{\'e}ctor Mancini and Xavier Calbet},
+  journal={ArXiv},
+  year={1995},
+  volume={abs/1009.1498}
+}
+
+@book{Sethna2021StatisticalME,
+  title={Statistical Mechanics: Entropy, Order Parameters, and Complexity},
+  author={James P. Sethna},
+  year={2021}
+}
+
+@article{WOOD198660,
+title = {Task complexity: Definition of the construct},
+journal = {Organizational Behavior and Human Decision Processes},
+volume = {37},
+number = {1},
+pages = {60-82},
+year = {1986},
+issn = {0749-5978},
+doi = {https://doi.org/10.1016/0749-5978(86)90044-0},
+url = {https://www.sciencedirect.com/science/article/pii/0749597886900440},
+author = {Robert E Wood},
+abstract = {A general theoretical model of tasks is presented in which the three essential components of all tasks are products, (required) acts, and information cues. These components are defined and are then used to derive three analytical dimensions of task complexity: component complexity, coordinative complexity, and dynamic complexity. Various indexes which can be used in the quantification of these constructs are also presented. Two examples which illustrate the calculation of some of the indexes for a relatively simple task and a relatively complex task are presented and the relationship between task complexity and task performance is briefly discussed.}
+}
+
+@book{Mitchell2009ComplexityA,
+  title={Complexity: {A} Guided Tour},
+  author={Melanie Mitchell},
+  year={2009},
+  url={https://global.oup.com/academic/product/complexity-9780199798100}
+}
+
+@article{Chang_2007,
+author = {Chang,Tom  and Wu,Cheng‐chin },
+title = {Dynamical complexity, intermittent turbulence, coarse‐grained dissipation, criticality and multifractal processes},
+journal = {AIP Conference Proceedings},
+volume = {932},
+number = {1},
+pages = {161-166},
+year = {2007},
+doi = {10.1063/1.2778959},
+URL = {https://aip.scitation.org/doi/abs/10.1063/1.2778959},
+eprint = {https://aip.scitation.org/doi/pdf/10.1063/1.2778959}
+}
+
+@article{Flack_2017,
+author = {Flack, Jessica C. },
+title = {Coarse-graining as a downward causation mechanism},
+journal = {Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences},
+volume = {375},
+number = {2109},
+pages = {20160338},
+year = {2017},
+doi = {10.1098/rsta.2016.0338},
+URL = {https://royalsocietypublishing.org/doi/abs/10.1098/rsta.2016.0338},
+eprint = {https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2016.0338},
+    abstract = { Downward causation is the controversial idea that ‘higher’ levels of organization can causally influence behaviour at ‘lower’ levels of organization. Here I propose that we can gain traction on downward causation by being operational and examining how adaptive systems identify regularities in evolutionary or learning time and use these regularities to guide behaviour. I suggest that in many adaptive systems components collectively compute their macroscopic worlds through coarse-graining. I further suggest we move from simple feedback to downward causation when components tune behaviour in response to estimates of collectively computed macroscopic properties. I introduce a weak and strong notion of downward causation and discuss the role the strong form plays in the origins of new organizational levels. I illustrate these points with examples from the study of biological and social systems and deep neural networks. This article is part of the themed issue ‘Reconceptualizing the origins of life’. }
+}
+
+
+
+@Article{Consolini_2021,
+AUTHOR = {Consolini, Giuseppe and Quattrociocchi, Virgilio and D’Angelo, Giulia and Alberti, Tommaso and Piersanti, Mirko and Marcucci, Maria Federica and De Michelis, Paola},
+TITLE = {Electric Field Multifractal Features in the High-Latitude Ionosphere: CSES-01 Observations},
+JOURNAL = {Atmosphere},
+VOLUME = {12},
+YEAR = {2021},
+NUMBER = {5},
+ARTICLE-NUMBER = {646},
+URL = {https://www.mdpi.com/2073-4433/12/5/646},
+ISSN = {2073-4433},
+ABSTRACT = {In the polar ionosphere, the electric field is characterized by broadband and power law spectral densities at small/short spatio-temporal scales, which support a possible turbulent nature of the electric field fluctuations. Here, we investigate the multifractal character of the full three-dimensional electric field in the polar ionosphere as recorded on board the first Chinese Seismo-Electromagnetic Satellite (CSES-01). The results of our analysis prove a clear different degree of multifractality of the electric field fluctuations approaching either the polar cap trailing edge or the auroral region. The observed differences in the multifractal character are interpreted in terms of the different natures of the particle precipitation in the polar cap and in the auroral region. A possible link between the multifractal nature of electric field fluctuations, parallel to the geomagnetic field, and filamentation of field aligned currents (FACs) is established.},
+DOI = {10.3390/atmos12050646}
+}
+
+
+@inbook{Nishimura_2021,
+author = {Nishimura, Yukitoshi and Deng, Yue and Lyons, Larry R. and McGranaghan, Ryan M. and Zettergren, Matthew D.},
+publisher = {American Geophysical Union (AGU)},
+isbn = {9781119815617},
+title = {Multiscale Dynamics in the High-Latitude Ionosphere},
+booktitle = {Ionosphere Dynamics and Applications},
+chapter = {3},
+pages = {49-65},
+doi = {https://doi.org/10.1002/9781119815617.ch3},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/9781119815617.ch3},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/9781119815617.ch3},
+year = {2021},
+keywords = {cross-regional interaction processes, cusp, high-latitude ionosphere, multiscale dynamics, nightside auroral oval, polar cap},
+abstract = {Summary This chapter reviews recent findings of multi-scale structures and dynamics in the high-latitude ionosphere, particularly on meso-scale (10s-100s km) processes, as well as their roles in cross-regional interaction processes. Localized and transient structures often occur at the cusp, polar cap, and auroral oval, and their magnitudes can be comparable or larger than those of large-scale background. However, their properties and coupling are not well understood, and specification of their structures and variabilities are critical for numerical modeling. The meso-scale covers a myriad processes and phenomena, including poleward-moving auroral forms (PMAFs), polar cap patches, auroral arcs, poleward boundary intensifications (PBIs), streamers, substorm, surges, diffuse aurora, and related flow channels, field-aligned currents (FACs) and precipitation/conductance. Small-scale features also play important roles in the creation and behavior in multi-scale dynamics. While those structures are localized, they have net effects on large-scale dynamics, and can influence surrounding regions by propagating over long distances. An approach to quantify meso-scale precipitation contributions using the THEMIS all-sky imagers is presented, and we show that meso-scale precipitation has a substantial (25-50\%) contribution, indicating critical importance of multi-scale processes for understanding Geospace processes. The current state and necessity of specification for advancing understanding of multi-scale coupling processes are discussed.}
+}
+
+@incollection{Nishimura_2022,
+title = {Chapter 1 - Multiscale processes in the M-I-T system},
+editor = {Yukitoshi Nishimura and Olga Verkhoglyadova and Yue Deng and Shun-Rong Zhang},
+booktitle = {Cross-Scale Coupling and Energy Transfer in the Magnetosphere-Ionosphere-Thermosphere System},
+publisher = {Elsevier},
+pages = {1-63},
+year = {2022},
+isbn = {978-0-12-821366-7},
+doi = {https://doi.org/10.1016/B978-0-12-821366-7.00007-X},
+url = {https://www.sciencedirect.com/science/article/pii/B978012821366700007X},
+keywords = {Magnetosphere-ionosphere-thermosphere coupling, Multiscale interaction, Aurora, Convection variability, Upflow and outflow},
+abstract = {This chapter introduces basic concepts of the magnetosphere-ionosphere-thermosphere (M-I-T) system and properties of the key regions. Section 1.1 gives an overview of large-scale convection, currents, aurora, plasma outflow, ion-neutral interaction, and energy budget. Section 1.2 introduces multiscale processes in three key regions (cusp, auroral oval, and subauroral ionosphere). Multiscale structures in the nightside auroral oval are presented in detail. Section 1.3 further presents properties of meso-scale convection and their impacts on the large-scale system. Section 1.4 provides a thorough review of plasma upflows and outflows and their impacts on the magnetosphere as a key coupling process in the system.}
+}
+
+@article{Viall_2020,
+author = {Viall, Nicholeen M. and Borovsky, Joseph E.},
+title = {Nine Outstanding Questions of Solar Wind Physics},
+journal = {Journal of Geophysical Research: Space Physics},
+volume = {125},
+number = {7},
+pages = {e2018JA026005},
+keywords = {outstanding problems of the solar wind},
+doi = {https://doi.org/10.1029/2018JA026005},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JA026005},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2018JA026005},
+note = {e2018JA026005 2018JA026005},
+year = {2020}
+}
+
+
+@inbook{Denton_2021,
+author = {Denton, Michael H.},
+publisher = {American Geophysical Union (AGU)},
+isbn = {9781119815624},
+title = {Some Unsolved Problems of Magnetospheric Physics},
+booktitle = {Magnetospheres in the Solar System},
+chapter = {46},
+pages = {743-751},
+doi = {https://doi.org/10.1002/9781119815624.ch46},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/9781119815624.ch46},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/9781119815624.ch46},
+year = {2021},
+keywords = {magnetospheric physics, naturally-occurring plasma, physical problems, spatial scales},
+abstract = {Summary The magnetosphere is a fascinating region of the universe in which to study fundamental physics: it is a laboratory where we can study naturally-occurring plasma over a range of spatial scales at various energies. Here, a selection of outstanding questions relating to magnetospheric physics are listed and discussed. Also discussed are reasons why some problems in physics are hard to solve and whether additional observations and/or theory are required to approach acceptable solutions.}
+}
+
+@article{Denton2016PrefaceUP,
+  title={Preface: Unsolved problems of magnetospheric physics},
+  author={Michael H. Denton and Joseph E. Borovsky and Marina Stepanova and Juan Alejandro Valdivia},
+  journal={Journal of Geophysical Research: Space Physics},
+  year={2016},
+  volume={121},
+  pages={10,783 - 10,785}
+}
+
+@article{Denton_2016,
+author = {Denton, M. H. and Borovsky, J. E. and Stepanova, M. and Valdivia, J. A.},
+title = {Preface: Unsolved problems of magnetospheric physics},
+journal = {Journal of Geophysical Research: Space Physics},
+volume = {121},
+number = {11},
+pages = {10,783-10,785},
+keywords = {magnetosphere},
+doi = {https://doi.org/10.1002/2016JA023362},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2016JA023362},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/2016JA023362},
+abstract = {Abstract The Unsolved Problems of Magnetospheric Physics Workshop was held in September 2015 in Scarborough, UK. In contrast to most other meetings, people were specifically asked not to present and discuss their recent results. Rather, they were asked to bring their opinions and thoughts on unsolved problems to the meeting. Short presentations were encouraged after which the audience would debate and discuss definitions of the problems and how they could be overcome. Were new observations required? New missions? Or simply did the community need to work better together to resolve pertinent and outstanding science questions? Around 50\% of the meeting schedule was devoted to discussion sessions on these topics.},
+year = {2016}
+}
+
+
+@article{Lui_2001,
+author = {Lui, A. T. Y.},
+title = {Current controversies in magnetospheric physics},
+journal = {Reviews of Geophysics},
+volume = {39},
+number = {4},
+pages = {535-563},
+doi = {https://doi.org/10.1029/2000RG000090},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2000RG000090},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2000RG000090},
+abstract = {The scientific ascent of humankind comes in two forms: incremental progress with traditional thinking, and paradigm transition. The latter typically engenders intense debate, often long lasting, before the transition of the paradigm is deemed acceptable. The magnetospheric discipline is no exception, especially in view of the sparse observations available to reach conclusive theory-data closure. Scientific controversies serve an important role in identifying significant unresolved issues for progress to be made. This review highlights key issues on four controversies present in magnetospheric physics: (1) the on-and-off debate on whether the magnetic field combined with the plasma bulk flow or the electric field combined with the current density is the primary quantity in treating magnetospheric problems; (2) the proper interpretation of transient dayside magnetospheric phenomena, i.e., whether they are related to flux transfer events, plasma transfer events, or solar wind pressure pulses; (3) the physical processes responsible for substorm onset; and (4) justifications for substorms or enhanced magnetospheric convection as the cause of magnetic storms. In issue 1 the merits and limitations of the two approaches are expounded. In issue 2 the predicted similarities and differences between the three interpretations are summarized. In issue 3 the strengths and weaknesses of prominent existing substorm models are elaborated on. In issue 4 the two contributors to storms are recognized and combined. Each controversy has an element of a paradigm transition. The resolutions of these controversies appear to also have one common element in that the presumption of only one theory to be correct may not be valid; a synthesis of existing theories may provide a better understanding of all features associated with the phenomenon.},
+year = {2001}
+}
+
+@article{Mcgranaghan2022TheEO,
+  title={The evolution of heliophysics: Complexity, community, and open science},
+  author={Ryan McGranaghan},
+  journal={Frontiers in Astronomy and Space Sciences},
+  year={2022}
+}
+
+@article{GellMann1954QUANTUMEA,
+  title={QUANTUM ELECTRODYNAMICS AT SMALL DISTANCES},
+  author={Murray Gell-Mann and Francis E. Low},
+  journal={Physical Review},
+  year={1954},
+  volume={95},
+  pages={1300-1312}
+}
+
+@article{Coppes2022BeyondCO,
+  title={Beyond categorisation: On Piet Mondrian’s artistry and success (1911-1919)},
+  author={Wietse Coppes and L.A.M. Jansen},
+  journal={Oud Holland – Journal for Art of the Low Countries},
+  year={2022}
+}
+
+@article{Peek2020AFF,
+  title={A Framework for Convergence Research in the Hazards and Disaster Field: The Natural Hazards Engineering Research Infrastructure CONVERGE Facility},
+  author={Lori Peek and Jennifer Tobin and Rachel Marie Adams and Haorui Wu and Mason Mathews},
+  journal={Frontiers in Built Environment},
+  year={2020}
+}
+
+@book{Prince2009CatastropheAS,
+  title={Catastrophe and Social Change, Based Upon a Sociological Study of the Halifax Disaster},
+  author={Samuel Henry Prince},
+  year={2009}
+}
+
+@book{Solnit2009APB,
+  title={A Paradise Built in Hell: The Extraordinary Communities That Arise in Disaster},
+  author={Rebecca Solnit},
+  year={2009}
+}
+
+@article{Quarantelli1987DisasterSA,
+  title={Disaster Studies: An Analysis of the Social Historical Factors Affecting the Development of Research in the Area},
+  author={Enrico L. Quarantelli},
+  journal={International Journal of Mass Emergencies \& Disasters},
+  year={1987},
+  volume={5},
+  pages={285 - 310}
+}
+
+@book{White1975AssessmentOR,
+  title={Assessment Of Research On Natural Hazards},
+  author={Gilbert Fowler White and J. Eugene Haas},
+  year={1975}
+}
+
+@BOOK{NAP18722,  
+author    = "National Research Council",  
+title     = "Convergence: Facilitating Transdisciplinary Integration of Life Sciences, Physical Sciences, Engineering, and Beyond",  
+isbn      = "978-0-309-30151-0",  
+doi       = "10.17226/18722",  
+url       = "https://nap.nationalacademies.org/catalog/18722/convergence-facilitating-transdisciplinary-integration-of-life-sciences-physical-sciences-engineering",
+  year      =2014,
+  publisher = "The National Academies Press",
+  address   = "Washington, DC"
+}
+
+@article{Bornmann2020GrowthRO,
+  title={Growth rates of modern science: a latent piecewise growth curve approach to model publication numbers from established and new literature databases},
+  author={Lutz Bornmann and Ruediger Mutz and Robin Haunschild},
+  journal={Humanities and Social Sciences Communications},
+  year={2020},
+  volume={8},
+  pages={1-15}
+}
+
+@article{Thayer_CEDAR,
+title = {Coupling, Energetics, and Dynamics of Atmospheric Regions (CEDAR) The New Dimension, Strategic Vision},
+journal = {},
+year = {2011},
+doi = {},
+url = {https://cedarscience.org/sites/default/files/2021-10/CEDAR_Plan_June_2011_online.pdf},
+author = {Jeffrey Thayer},}
+
+@article{Bommasani2021OnTO,
+  title={On the Opportunities and Risks of Foundation Models},
+  author={Rishi Bommasani and Drew A. Hudson and Ehsan Adeli and Russ Altman and Simran Arora and Sydney von Arx and Michael S. Bernstein and Jeannette Bohg and Antoine Bosselut and Emma Brunskill and Erik Brynjolfsson and S. Buch and Dallas Card and Rodrigo Castellon and Niladri S. Chatterji and Annie S. Chen and Kathleen A. Creel and Jared Davis and Dora Demszky and Chris Donahue and Moussa Doumbouya and Esin Durmus and Stefano Ermon and John Etchemendy and Kawin Ethayarajh and Li Fei-Fei and Chelsea Finn and Trevor Gale and Lauren E. Gillespie and Karan Goel and Noah D. Goodman and Shelby Grossman and Neel Guha and Tatsunori Hashimoto and Peter Henderson and John Hewitt and Daniel E. Ho and Jenny Hong and Kyle Hsu and Jing Huang and Thomas F. Icard and Saahil Jain and Dan Jurafsky and Pratyusha Kalluri and Siddharth Karamcheti and Geoff Keeling and Fereshte Khani and O. Khattab and Pang Wei Koh and Mark S. Krass and Ranjay Krishna and Rohith Kuditipudi and Ananya Kumar and Faisal Ladhak and Mina Lee and Tony Lee and Jure Leskovec and Isabelle Levent and Xiang Lisa Li and Xuechen Li and Tengyu Ma and Ali Malik and Christopher D. Manning and Suvir Mirchandani and Eric Mitchell and Zanele Munyikwa and Suraj Nair and Avanika Narayan and Deepak Narayanan and Benjamin Newman and Allen Nie and Juan Carlos Niebles and Hamed Nilforoshan and J. F. Nyarko and Giray Ogut and Laurel J. Orr and Isabel Papadimitriou and Joon Sung Park and Chris Piech and Eva Portelance and Christopher Potts and Aditi Raghunathan and Robert Reich and Hongyu Ren and Frieda Rong and Yusuf H. Roohani and Camilo Ruiz and Jack Ryan and Christopher R'e and Dorsa Sadigh and Shiori Sagawa and Keshav Santhanam and Andy Shih and Krishna Parasuram Srinivasan and Alex Tamkin and Rohan Taori and Armin W. Thomas and Florian Tram{\`e}r and Rose E. Wang and William Wang and Bohan Wu and Jiajun Wu and Yuhuai Wu and Sang Michael Xie and Michihiro Yasunaga and Jiaxuan You and Matei A. Zaharia and Michael Zhang and Tianyi Zhang and Xikun Zhang and Yuhui Zhang and Lucia Zheng and Kaitlyn Zhou and Percy Liang},
+  journal={ArXiv},
+  year={2021},
+  volume={abs/2108.07258}
+}
+
+
+@inproceedings{Jurafsky2000SpeechAL,
+  title={Speech and language processing - an introduction to natural language processing, computational linguistics, and speech recognition},
+  author={Dan Jurafsky and James H. Martin},
+  booktitle={Prentice Hall series in artificial intelligence},
+  year={2000}
+}
+
+@article{Rumelhart1986LearningRB,
+  title={Learning representations by back-propagating errors},
+  author={David E. Rumelhart and Geoffrey E. Hinton and Ronald J. Williams},
+  journal={Nature},
+  year={1986},
+  volume={323},
+  pages={533-536}
+}
+
+@article{Vaswani2017AttentionIA,
+  title={Attention is All you Need},
+  author={Ashish Vaswani and Noam M. Shazeer and Niki Parmar and Jakob Uszkoreit and Llion Jones and Aidan N. Gomez and Lukasz Kaiser and Illia Polosukhin},
+  journal={ArXiv},
+  year={2017},
+  volume={abs/1706.03762}
+}
+
+@article{Baevski2020wav2vec2A,
+  title={wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations},
+  author={Alexei Baevski and Henry Zhou and Abdel-rahman Mohamed and Michael Auli},
+  journal={ArXiv},
+  year={2020},
+  volume={abs/2006.11477}
+}
+
+@article{Tamkin2021UnderstandingTC,
+  title={Understanding the Capabilities, Limitations, and Societal Impact of Large Language Models},
+  author={Alex Tamkin and Miles Brundage and Jack Clark and Deep Ganguli},
+  journal={ArXiv},
+  year={2021},
+  volume={abs/2102.02503}
+}
+
+@article{Luo2022BioGPTGP,
+  title={BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining},
+  author={Renqian Luo and Liai Sun and Yingce Xia and Tao Qin and Sheng Zhang and Hoifung Poon and Tie-Yan Liu},
+  journal={Briefings in bioinformatics},
+  year={2022}
+}
+
+@inproceedings{Radford2018ImprovingLU,
+  title={Improving Language Understanding by Generative Pre-Training},
+  author={Alec Radford and Karthik Narasimhan},
+  year={2018},
+  url={https://gwern.net/doc/www/s3-us-west-2.amazonaws.com/d73fdc5ffa8627bce44dcda2fc012da638ffb158.pdf}
+}
+
+@inproceedings{Ramasubramanian2020SurveyingTM,
+  title={Surveying the Machine Learning Landscape in Earth Sciences},
+  author={Muthukumaran Ramasubramanian and Katrina S. Virts and Ashlyn Shirey and Ankur Kumar and Muhammad Hassan and Ashish Acharya and Rahul Ramachandran and Maskey Manil},
+  year={2020},
+  conference={European Geophysical Union 2020}
+}
+
+@article{Biffl2016SemanticWT,
+  title={Semantic Web Technologies for Intelligent Engineering Applications},
+  author={Stefan Biffl and Marta Sabou},
+  journal={Cambridge International Law Journal},
+  year={2016}
+}
+
+@article{Turing1950ComputingMA,
+  title={Computing Machinery and Intelligence},
+  author={Alan M. Turing},
+  journal={Mind},
+  year={1950},
+  volume={LIX},
+  pages={433-460}
+}
+
+@article{McCarthy2006APF,
+  title={A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence, August 31, 1955},
+  author={John McCarthy and Marvin Minsky and Nathaniel Rochester and Claude E. Shannon},
+  journal={AI Mag.},
+  year={2006},
+  volume={27},
+  pages={12-14}
+}
+
+@article{AsimovRunaround,
+  title={Runaround},
+  author={Isaac Asimov},
+  journal={Astounding Science-Fiction},
+  year={1942},
+  editor= {John W. Campbell, Jr.},
+  url={https://isfdb.org/cgi-bin/pl.cgi?57563},  
+}
+
+@book{Descartes1968-DESDOM,
+	title = {Discourse on Method},
+	publisher = {Harmondsworth, Penguin},
+	year = {1968},
+	author = {Ren\'e Descartes}
+}
+
+
+@article{LeCun2015DeepL,
+  title={Deep Learning},
+  author={Yann LeCun and Yoshua Bengio and Geoffrey Hinton},
+  journal={Nature},
+  year={2015},
+  volume={521},
+  pages={436-444}
+}
+
+@article{Moore1998CrammingMC,
+  title={Cramming More Components Onto Integrated Circuits},
+  author={Gordon E. Moore},
+  journal={Proceedings of the IEEE},
+  year={1998},
+  volume={86},
+  pages={82-85}
+}
+
+@article{Mcgranaghan2021SpaceWR,
+  title={Space Weather research in the Digital Age and across the full data lifecycle: Introduction to the Topical Issue},
+  author={Ryan McGranaghan and Enrico Camporeale and Manolis K. Georgoulis and Anastasios Anastasiadis},
+  journal={Journal of Space Weather and Space Climate},
+  year={2021}
+}
+
+@book{Wilson1998ConsilienceTU,
+  title={Consilience: The Unity of Knowledge},
+  author={Edward O. Wilson},
+  year={1998}
+}
+
+@article{Krakauer_aeon,
+  title={At the limits of thought},
+  author={David Krakauer},
+  journal={Aeon},
+  editor={Sally Davies},
+  year={2020}
+}
+
+@book{Lent2017ThePI,
+  title={The Patterning Instinct: A Cultural History of Humanity's Search for Meaning},
+  author={Jeremy Lent},
+  year={2017}
+}
+
+@article{Cokely2012MeasuringRL,
+  title={Measuring Risk Literacy: The Berlin Numeracy Test},
+  author={Edward T. Cokely and Mirta Galesic and Eric Schulz and Saima Ghazal and Roc{\'i}o Garc{\'i}a‐Retamero},
+  journal={Judgment and Decision Making},
+  year={2012}
+}
+
+@article{GunningXAI,
+author = {Gunning, David and Vorm, Eric and Wang, Jennifer Yunyan and Turek, Matt},
+title = {DARPA's explainable AI (XAI) program: A retrospective},
+journal = {Applied AI Letters},
+volume = {2},
+number = {4},
+pages = {e61},
+doi = {https://doi.org/10.1002/ail2.61},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/ail2.61},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/ail2.61},
+abstract = {Summary of Defense Advanced Research Projects Agency's (DARPA) explainable artificial intelligence (XAI) program from the program managers' and evaluator's perspective.},
+year = {2021}
+}
+
+@article{Sober2021UntoO,
+  title={Unto Others},
+  author={Elliott Sober and David Sloan Wilson},
+  journal={Philosophy after Darwin},
+  year={2021}
+}
+
+@article{NAROCK2012248,
+title = {From science to e-Science to Semantic e-Science: A Heliophysics case study},
+journal = {Computers \& Geosciences},
+volume = {46},
+pages = {248-254},
+year = {2012},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2011.11.018},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300411004080},
+author = {Thomas Narock and Peter Fox},
+keywords = {Semantic e-Science, Semantic Web, Ontology, Provenance},
+abstract = {The past few years have witnessed unparalleled efforts to make scientific data web accessible. The Semantic Web has proven invaluable in this effort; however, much of the literature is devoted to system design, ontology creation, and trials and tribulations of current technologies. In order to fully develop the nascent field of Semantic e-Science we must also evaluate systems in real-world settings. We describe a case study within the field of Heliophysics and provide a comparison of the evolutionary stages of data discovery, from manual to semantically enable. We describe the socio-technical implications of moving toward automated and intelligent data discovery. In doing so, we highlight how this process enhances what is currently being done manually in various scientific disciplines. Our case study illustrates that Semantic e-Science is more than just semantic search. The integration of search with web services, relational databases, and other cyberinfrastructure is a central tenet of our case study and one that we believe has applicability as a generalized research area within Semantic e-Science. This case study illustrates a specific example of the benefits, and limitations, of semantically replicating data discovery. We show examples of significant reductions in time and effort enable by Semantic e-Science; yet, we argue that a “complete” solution requires integrating semantic search with other research areas such as data provenance and web services.}
+}
+
+@article{Mcgranaghan2018HowDW,
+  title={How Do We Accomplish System Science in Space?},
+  author={Ryan McGranaghan and Joseph E. Borovsky and Michael H. Denton},
+  journal={Eos},
+  year={2018}
+}
+
+@INPROCEEDINGS{BentleyHelio,
+  author={Bentley, Robert and Brooke, John and Csillaghy, Andre and Fellows, Donal and Le Blanc, Anja and Messerotti, Mauro and Perez-Su´rez, David and Pierantoni, Gabriele and Soldati, Marco},
+  booktitle={2011 IEEE Seventh International Conference on eScience}, 
+  title={{HELIO: Discovery and Analysis of Data in Heliophysics}}, 
+  year={2011},
+  volume={},
+  number={},
+  pages={248-255},
+  doi={10.1109/eScience.2011.42}}
+
+
+@inproceedings{Shimizu2020TowardsAM,
+  title={Towards a Modular Ontology for Space Weather Research},
+  author={Cogan Shimizu and Ryan Mcgranaghan and Aaron Eberhart and Adam C. Kellerman},
+  booktitle={Workshop on Ontology Design and Patterns {(WOP)}},
+  year={2020}
+}
+
+@article{Chiang2000CatchingCF,
+  title={Catching crumbs from the table},
+  author={Ted K. Chiang},
+  journal={Nature},
+  year={2000},
+  volume={405},
+  pages={517-517}
+}
+
+@book{Finn2017WhatAW,
+  title={What Algorithms Want: Imagination in the Age of Computing},
+  author={Edmund Finn},
+  year={2017}
+}
+
+@inproceedings{Kelly2016TheIU,
+  title={The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future},
+  author={Kevin F. Kelly},
+  year={2016}
+}
+
+@book{ottino2022nexus,
+  title={The Nexus: Augmented Thinking for a Complex World--The New Convergence of Art, Technology, and Science},
+  author={Ottino, J.M. and Mau, B.},
+  isbn={9780262046343},
+  lccn={2021013272},
+  url={https://books.google.com/books?id=fLZNEAAAQBAJ},
+  year={2022},
+  publisher={MIT Press}
+}
+
+
+
+
+
+
+
+
+@article{Cilliers2000,
+author = { Paul   Cilliers },
+title = {Knowledge, Complexity, and Understanding},
+journal = {Emergence},
+volume = {2},
+number = {4},
+pages = {7-13},
+year  = {2000},
+publisher = {Routledge},
+doi = {10.1207/S15327000EM0204\_03},
+URL = {
+        https://doi.org/10.1207/S15327000EM0204_03
+},
+eprint = { 
+        https://doi.org/10.1207/S15327000EM0204_03
+}
+}
+
+@book{Castiglione2008ChaosAC,
+  title={Chaos and Coarse Graining in Statistical Mechanics},
+  author={Patrizia Castiglione and Massimo Falcioni and Annick Lesne and Angelo Vulpiani},
+  year={2008}
+}
+
+@article{Freeman2000,
+author = {Freeman, M. P. and Watkins, N. W. and Riley, D. J.},
+title = {Evidence for a solar wind origin of the power law burst lifetime distribution of the AE indices},
+journal = {Geophysical Research Letters},
+volume = {27},
+number = {8},
+pages = {1087-1090},
+doi = {https://doi.org/10.1029/1999GL010742},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/1999GL010742},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/1999GL010742},
+abstract = {In this paper we examine the claim that the power law distribution of burst lifetimes in the AE index is evidence that the magnetosphere is a Self-Organized Critical (SOC) system. To do this we compare the burst lifetime distributions of the AU and |AL| indices with those of the υBs and ε solar wind input functions. We show for the first time that both the υBs and ε burst lifetime distributions are of power law form with an exponential cut-off, consistent with the solar wind being an SOC system. Furthermore, the power law of the ε burst lifetime distribution is not significantly different to that of the AU and |AL| indices, indicating that this scale-free property of the AE indices could arise from the solar wind input and may not be an intrinsic property of the magnetospheric system. We discuss the implications of this result for SOC theories of the magnetosphere.},
+year = {2000}
+}
+
+@article{McGranaghan_2020,
+	doi = {10.1002/essoar.10503724.1},
+	url = {https://doi.org/10.1002\%2Fessoar.10503724.1},
+	year = 2020,
+	month = {jul},
+	publisher = {Wiley},
+	author = {Ryan McGranaghan and Adam Kellerman and Robert Arritt and Jacob Bortnik and Morris Cohen and Karthik Venkataramani and Jackson McCormick and Joseph Hughes and Chigo Ngwira and Charles Perry},
+	title = {The Heliophysics and Space Weather Open Knowledge Network: The Convergence Hub for the Exploration of Space Science ({CHESS})}
+}
+
+@article{McGranaghan2021need,
+	author = {McGranaghan, Ryan and Klein, Samuel and Cameron, Agnes and Young, Ellie and Schonfeld, Sam and Higginson, Aleida and Ringuette, Rebecca and Halford, Alexa and Bard, Chris and Narock, Ayris and Thompson, Barbara},
+	journal = {Structuring Collective Knowledge},
+	year = {2021},
+	month = {aug 16},
+	note = {https://knowledgestructure.pubpub.org/pub/space-knowledge-commons},
+	publisher = {},
+	title = {The need for a {Space} {Data} {Knowledge} {Commons}},
+}
+
+
+
+@inreference{mw:systems,
+  author    = {Merriam-Webster},
+  title     = {Systems},
+  booktitle = {Merriam-Webster.com dictionary},
+  url       = {https://www.merriam-webster.com/dictionary/system},
+  urldate   = {2020-07-08},
+  year = {2023}
+}
+
+@book{mitchell1997machine,
+  title={Machine Learning},
+  author={Mitchell, T.M.},
+  isbn={9780071154673},
+  lccn={97007692},
+  series={McGraw-Hill International Editions},
+  url={https://books.google.com/books?id=EoYBngEACAAJ},
+  year={1997},
+  publisher={McGraw-Hill}
+}
+
+@misc{moore_cmu,
+  author        = {Jo{\~a}o Cunha},
+  title         = {Lecture notes in Computer Assisted Diagnosis},
+  month         = {February},
+  year          = {2013},
+  publisher={Faculdade de Engenharia da Universidade do Porto}
+}
+
+@article{Karpatne2016TheoryGuidedDS,
+  title={Theory-Guided Data Science: {A} New Paradigm for Scientific Discovery from Data},
+  author={Anuj Karpatne and Gowtham Atluri and James H. Faghmous and Michael S. Steinbach and Arindam Banerjee and Auroop Ratan Ganguly and Shashi Shekhar and Nagiza F. Samatova and Vipin Kumar},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2016},
+  volume={29},
+  pages={2318-2331}
+}
+
+@article{Pankratius2016ComputerAidedDT,
+  title={Computer-Aided Discovery: Toward Scientific Insight Generation with Machine Support},
+  author={Victor Pankratius and Justin D. Li and Michael G. Gowanlock and David M. Blair and Cody M. Rude and Thomas A. Herring and Frank D. Lind and Philip J. Erickson and Colin J. Lonsdale},
+  journal={IEEE Intelligent Systems},
+  year={2016},
+  volume={31},
+  pages={3-10}
+}
+
+@article{Davis1966AuroralEA,
+  title={Auroral electrojet activity index AE and its universal time variations.},
+  author={T. Neil Davis and Masahisa Sugiura},
+  journal={Journal of Geophysical Research},
+  year={1966},
+  volume={71},
+  pages={785-801}
+}
+
+@inproceedings{Miller2009ComplexAS,
+  title={Complex adaptive systems - an introduction to computational models of social life},
+  author={John H. Miller and Scott E. Page},
+  booktitle={Princeton studies in complexity},
+  year={2009}
+}
+
+
+@article{Kauffman1991CoevolutionTT,
+  title={Coevolution to the edge of chaos: coupled fitness landscapes, poised states, and coevolutionary avalanches.},
+  author={Stuart A. Kauffman and S. Johnsen},
+  journal={Journal of theoretical biology},
+  year={1991},
+  volume={149 4},
+  pages={
+          467-505
+        }
+}
+
+@article{Halley1996EcologyEA,
+  title={Ecology, evolution and 1 f -noise.},
+  author={John Maxwell Halley},
+  journal={Trends in ecology \& evolution},
+  year={1996},
+  volume={11 1},
+  pages={
+          33-7
+        }
+}
+
+@article{Milne1998MotivationAB,
+  title={Motivation and Benefits of Complex Systems Approaches in Ecology},
+  author={Bruce T. Milne},
+  journal={Ecosystems},
+  year={1998},
+  volume={1},
+  pages={449-456}
+}
+
+@article{Sneppen1995EvolutionAA,
+  title={Evolution as a self-organized critical phenomenon.},
+  author={Kim Sneppen and Per Bak and Henrik Flyvbjerg and Mogens H. Jensen},
+  journal={Proceedings of the National Academy of Sciences of the United States of America},
+  year={1995},
+  volume={92 11},
+  pages={
+          5209-13
+        }
+}
+
+@inproceedings{Langton1991ArtificialLI,
+  title={Artificial Life II},
+  author={Christopher G. Langton and Charles E. Taylor and J. Doyne Farmer and Steen Rasmussen},
+  year={1991}
+}
+
+@article{Bak1989EarthquakesAA,
+  title={Earthquakes as a self‐organized critical phenomenon},
+  author={Per Bak and Chao Tang},
+  journal={Journal of Geophysical Research},
+  year={1989},
+  volume={94},
+  pages={15635-15637}
+}
+
+@article{Stanley2002SelforganizedCI,
+  title={Self-organized complexity in economics and finance},
+  author={H. Eugene Stanley and Luis A. Nunes Amaral and Sergey V. Buldyrev and P. Gopikrishnan and Vasiliki Plerou and Michael A. Salinger},
+  journal={Proceedings of the National Academy of Sciences of the United States of America},
+  year={2002},
+  volume={99},
+  pages={2561 - 2565}
+}
+
+@article{Newman2002RandomGM,
+  title={Random graph models of social networks},
+  author={Mark E. J. Newman and Duncan J. Watts and Steven H. Strogatz},
+  journal={Proceedings of the National Academy of Sciences of the United States of America},
+  year={2002},
+  volume={99},
+  pages={2566 - 2572}
+}
+
+@article{Brunk2001SelfOrganizedCA,
+  title={Self-Organized Criticality: A New Theory of Political Behaviour and Some of Its Implications},
+  author={Gregory G. Brunk},
+  journal={British Journal of Political Science},
+  year={2001},
+  volume={31},
+  pages={427-445}
+}
+
+@inproceedings{Plenz2021SelfOrganizedCI,
+  title={Self-Organized Criticality in the Brain},
+  author={Dietmar Plenz and Tiago L Ribeiro and Stephanie R. Miller and Patrick A. Kells and Ali Vakili and Elliott L. Capek},
+  booktitle={Frontiers in Physics},
+  year={2021}
+}
+
+@inproceedings{Holland1995HiddenOH,
+  title={Hidden Order: How Adaptation Builds Complexity},
+  author={John H. Holland},
+  year={1995}
+}
+
+@article{Merkin2019ContributionOB,
+  title={Contribution of Bursty Bulk Flows to the Global Dipolarization of the Magnetotail During an Isolated Substorm},
+  author={V. G. Merkin and Evgeny V. Panov and Kareem A. Sorathia and Aleksandr Y. Ukhorskiy},
+  journal={Journal of Geophysical Research. Space Physics},
+  year={2019},
+  volume={124},
+  pages={8647 - 8668}
+}
+
+@article{Gabrielse2014StatisticalCO,
+  title={Statistical characteristics of particle injections throughout the equatorial magnetotail},
+  author={Christine Gabrielse and V. Angelopoulos and Andrei Runov and D. L. Turner},
+  journal={Journal of Geophysical Research: Space Physics},
+  year={2014},
+  volume={119},
+  pages={2512 - 2535}
+}
+
+@article{Wiltberger2015HighresolutionGM,
+  title={High‐resolution global magnetohydrodynamic simulation of bursty bulk flows},
+  author={Michael Wiltberger and V. G. Merkin and John G. Lyon and Shinichi Ohtani},
+  journal={Journal of Geophysical Research: Space Physics},
+  year={2015},
+  volume={120},
+  pages={4555 - 4566}
+}
+
+@Inbook{Szabo2014,
+author="Szabo, Adam",
+title="NASA Wind Satellite (1994)",
+bookTitle="Handbook of Cosmic Hazards and Planetary Defense",
+year="2014",
+publisher="Springer International Publishing",
+address="Cham",
+pages="1--14",
+isbn="978-3-319-02847-7",
+doi="10.1007/978-3-319-02847-7_13-1",
+url="https://doi.org/10.1007/978-3-319-02847-7_13-1"
+}
+
+@article{Chapman2000AvalanchingAS,
+  title={Avalanching and Self-Organised Criticality, a paradigm for geomagnetic activity?},
+  author={Sandra C. Chapman and Nicholas Wynn Watkins},
+  journal={Space Science Reviews},
+  year={2000},
+  volume={95},
+  pages={293-307}
+}
+
+@article{Chang1992LowdimensionalBA,
+  title={Low-dimensional behavior and symmetry breaking of stochastic systems near criticality-can these effects be observed in space and in the laboratory?},
+  author={Tom T. S. Chang},
+  journal={IEEE Transactions on Plasma Science},
+  year={1992},
+  volume={20},
+  pages={691-694}
+}
+
+@article{Chang2013SporadicLR,
+  title={Sporadic Localized Reconnections and Multiscale Intermittent Turbulence in the Magnetotail},
+  author={Tom T. S. Chang},
+  journal={Geophysical monograph},
+  year={2013},
+  volume={104},
+  pages={193-199}
+}
+
+@article{Chang1992PathID,
+  title={Path integrals, differential renormalization-group, and stochastic systems near criticality},
+  author={Tom Chang},
+  journal={International Journal of Engineering Science},
+  year={1992},
+  volume={30},
+  pages={1401-1405}
+}
+
+@inbook{Chang_1998,
+author = {Chang, T.},
+title = {Sporadic localized reconnections and intermittent turbulence in the magnetotail},
+booktitle= {Geospace Mass and Energy Flow},
+editors={J. L. Horwitz and D. L. Gallagher and W. K. Peterson},
+publisher={AGU},
+city={Washington, D. C.},
+year={1998}}
+
+@article{Consolini2001MagneticFT,
+  title={Magnetic Field Topology and Criticality in Geotail Dynamics: Relevance to Substorm Phenomena},
+  author={Giuseppe Consolini and T. S. Chang},
+  journal={Space Science Reviews},
+  year={2001},
+  volume={95},
+  pages={309-321}
+}
+
+@inproceedings{Klimas2000OnTC,
+  title={On the Compatibility of the Coherent Substorm Cycle with the Complex Plasma Sheet},
+  booktitle={5th International Conference on Substorms},
+  author={Alexander J. Klimas and Vadim M. Uritsky and Juan Alejandro Valdivia and Dimitris Vassiliadis and Daniel N. Baker},
+  editor={A. Wilson},
+  pages={165--168},
+  city={St. Petersburg, Russia},
+  year={2000}
+}
+
+@article{Takalo1999ACM,
+  title={A coupled‐map model for the magnetotail current sheet},
+  author={Jouni Takalo and J. Timonen and Alexander J. Klimas and Juan Alejandro Valdivia and Dimitris Vassiliadis},
+  journal={Geophysical Research Letters},
+  year={1999},
+  volume={26}
+}
+
+@article{Uritsky2001ComparativeSO,
+  title={Comparative study of dynamical critical scaling in the auroral electrojet index versus solar wind fluctuations},
+  author={Vadim M. Uritsky and Alexander J. Klimas and Dimitris Vassiliadis},
+  journal={Geophysical Research Letters},
+  year={2001},
+  volume={28}
+}
+
+@article{Stumpo2020MeasuringIC,
+  title={Measuring Information Coupling between the Solar Wind and the Magnetosphere–Ionosphere System},
+  author={Mirko Stumpo and Giuseppe Consolini and Tommaso Alberti and Virgilio Quattrociocchi},
+  journal={Entropy},
+  year={2020},
+  volume={22}
+}
+
+@article{Wing2018InformationTA,
+  title={Information Theoretic Approach to Discovering Causalities in the Solar Cycle},
+  author={Simon Wing and Jay Robert Johnson and Angelos Vourlidas},
+  journal={The Astrophysical Journal},
+  year={2018},
+  volume={854}
+}
+
+@article{Wing2016InformationTA,
+  title={Information theoretical approach to discovering solar wind drivers of the outer radiation belt},
+  author={Simon Wing and Jay Robert Johnson and Enrico Camporeale and Geoffrey D. Reeves},
+  journal={Journal of Geophysical Research: Space Physics},
+  year={2016},
+  volume={121},
+  pages={9378 - 9399}
+}
+
+@article{Materassi2011PredictiveSW,
+  title={Predictive Space Weather: An information theory approach},
+  author={Massimo Materassi and Luigi Ciraolo and Giuseppe Consolini and N. D. Smith},
+  journal={Advances in Space Research},
+  year={2011},
+  volume={47},
+  pages={877-885}
+}
+
+@article{Barabasi2002,
+  title = {Statistical mechanics of complex networks},
+  author = {Albert, R\'eka and Barab\'asi, Albert-L\'aszl\'o},
+  journal = {Rev. Mod. Phys.},
+  volume = {74},
+  issue = {1},
+  pages = {47--97},
+  numpages = {0},
+  year = {2002},
+  month = {Jan},
+  publisher = {American Physical Society},
+  doi = {10.1103/RevModPhys.74.47},
+  url = {https://link.aps.org/doi/10.1103/RevModPhys.74.47}
+}
+
+@article{Watts1998CollectiveDO,
+  title={Collective dynamics of ‘small-world’ networks},
+  author={Duncan J. Watts and Steven H. Strogatz},
+  journal={Nature},
+  year={1998},
+  volume={393},
+  pages={440-442}
+}
+
+@article{Milgram1967TheSW,
+  title={The Small World Problem},
+  author={Sharon Milgram},
+  journal={Psychology today},
+  year={1967},
+  volume={2},
+  pages={60-67}
+}
+
+@article{Erdos1984OnTE,
+  title={On the evolution of random graphs},
+  author={Paul L. Erdos and Alfr{\'e}d R{\'e}nyi},
+  journal={Transactions of the American Mathematical Society},
+  year={1984},
+  volume={286},
+  pages={257-257}
+}
+
+@article{Granovetter1973TheSO,
+  title={The Strength of Weak Ties},
+  author={Mark S. Granovetter},
+  journal={American Journal of Sociology},
+  year={1973},
+  volume={78},
+  pages={1360 - 1380}
+}
+
+@article{Porter2009CommunitiesIN,
+  title={Communities in Networks},
+  author={Mason A. Porter and Jukka-Pekka Onnela and Peter J. Mucha},
+  journal={Econometrics: Mathematical Methods \& Programming eJournal},
+  year={2009}
+}
+
+@article{Fortunato2009CommunityDI,
+  title={Community detection in graphs},
+  author={Santo Fortunato},
+  journal={ArXiv},
+  year={2009},
+  volume={abs/0906.0612}
+}
+
+@inproceedings{Buzan1994TheMM,
+  title={The Mind Map Book: How to Use Radiant Thinking to Maximize Your Brain's Untapped Potential},
+  author={Tony Buzan and Barry Buzan},
+  year={1994}
+}
+
+@inproceedings{Brner2015AtlasOK,
+  title={Atlas of Knowledge: Anyone Can Map},
+  author={Katy B{\"o}rner},
+  year={2015}
+}
+
+@article{simpson2021framework,
+  title={A framework for complex climate change risk assessment},
+  author={Simpson, Nicholas P and Mach, Katharine J and Constable, Andrew and Hess, Jeremy and Hogarth, Ryan and Howden, Mark and Lawrence, Judy and Lempert, Robert J and Muccione, Veruska and Mackey, Brendan and others},
+  journal={One Earth},
+  volume={4},
+  number={4},
+  pages={489--501},
+  year={2021},
+  publisher={Elsevier}
+}
+
+@article{Mendillo2006TotalEC,
+  title={Total electron content: Synthesis of past storm studies and needed future work},
+  author={Michael Mendillo and J. A. Klobuchar},
+  journal={Radio Science},
+  year={2006},
+  volume={41}
+}
+
+@inproceedings{Shim2009AnalysisOT,
+  title={Analysis of total electron content (TEC) variations in the low- and middle-latitude ionosphere},
+  author={Ja Soon Shim},
+  year={2009}
+}
+
+@article{Emardson2013SpatialVI,
+  title={Spatial variability in the ionosphere measured with GNSS networks},
+  author={Ragne Emardson and Per Jarlemark and Jan M. Johansson and Sebastian Sch{\"a}fer},
+  journal={Radio Science},
+  year={2013},
+  volume={48},
+  pages={646 - 652}
+}
+
+@article{Gjerloev2007StatisticalDO,
+  title={Statistical description of the bulge-type auroral substorm in the far ultraviolet},
+  author={Jesper W. Gjerloev and Robert Hoffman and J. B. Sigwarth and Louis A. Frank},
+  journal={Journal of Geophysical Research},
+  year={2007},
+  volume={112}
+}
+
+@article{Klein2023,
+ author  = {Klein, Ezra},
+ date    = {2023-03-12},
+ title   = {This Changes Everything},
+ journal = {New York Times},
+ url     = {https://www.nytimes.com/2023/03/12/opinion/chatbots-artificial-intelligence-future-weirdness.html},
+ urldate = {2023-03-12},
+ year = {2023}
+}
+
+@article{Niazi2011AgentbasedCF,
+  title={Agent-based computing from multi-agent systems to agent-based models: a visual survey},
+  author={Muaz A. Niazi and Amir Hussain},
+  journal={Scientometrics},
+  year={2011},
+  volume={89},
+  pages={479-499}
+}
+
+@article{Flack2022EditorialTT,
+  title={Editorial to the Inaugural Issue of Collective Intelligence},
+  author={Jessica C. Flack and Panos Ipeirotis and Thomas W. Malone and Geoff Mulgan and Scott E. Page},
+  journal={Collective Intelligence},
+  year={2022},
+  volume={1}
+}
+
+@article{Berditchevskaia2022ADA,
+  title={A descriptive analysis of collective intelligence publications since 2000, and the emerging influence of artificial intelligence},
+  author={Aleksandra Berditchevskaia and Eirini Maliaraki and K. Stathoulopoulos},
+  journal={Collective Intelligence},
+  year={2022},
+  volume={1}
+}
+
+@inproceedings{Tegmark2017Life3B,
+  title={Life 3.0: Being Human in the Age of Artificial Intelligence},
+  author={Max Tegmark},
+  year={2017}
+}
+
+@article{Mazzocchi2015CouldBD,
+  title={Could Big Data be the end of theory in science?},
+  author={Fulvio Mazzocchi},
+  journal={EMBO reports},
+  year={2015},
+  volume={16}
+}
+
+@article{Anderson2008TheEO,
+  title={The end of theory: The data deluge makes the scientific method obsolete},
+  author={Chris Anderson},
+  year={2008},
+  journal={Wired},
+  url={https://www.wired.com/2008/06/pb-theory/} 
+}
+
+@inproceedings{Heschel1989MoralGA,
+  title={Moral Grandeur and Spiritual Audacity: Essays},
+  author={Abraham Joshua Heschel and Susannah Heschel},
+  year={1989}
+}
+
+@book{pomerantz2015metadata,
+  title={Metadata},
+  author={Pomerantz, J.},
+  isbn={9780262528511},
+  lccn={2015030578},
+  series={The MIT Press Essential Knowledge series},
+  url={https://books.google.com/books?id=VtmMEAAAQBAJ},
+  year={2015},
+  publisher={MIT Press}
+}
+
+@article{Borovsky2020OutstandingQI,
+  title={Outstanding questions in magnetospheric plasma physics: The pollenzo view},
+  author={Joseph E. Borovsky and Gian Luca Delzanno and Juan Alejandro Valdivia and Pablo S. Moya and Marina Stepanova and Joachim Birn and Lauren W. Blum and William Lotko and Michael Hesse},
+  journal={Journal of Atmospheric and Solar-Terrestrial Physics},
+  year={2020},
+  volume={208},
+  pages={105377}
+}
+
+@article{Reynolds2019,
+  author   = "Sallyann Price",
+  title    = "Jason Reynolds Calls for Architects of Understanding",
+  journal  = "American Libraries",
+  year     = 2019,
+  url      = "https://americanlibrariesmagazine.org/blogs/the-scoop/jason-reynolds-opens-annual/", 
+  
+}
+
+@article{Papadimitriou1998LatentSI,
+  title={Latent semantic indexing: a probabilistic analysis},
+  author={Christos H. Papadimitriou and Prabhakar Raghavan and Hisao Tamaki and Santosh S. Vempala},
+  journal={J. Comput. Syst. Sci.},
+  year={1998},
+  volume={61},
+  pages={217-235}
+}
+
+@article{Schank2005ApproximatingCC,
+  title={Approximating Clustering Coefficient and Transitivity},
+  author={Thomas Schank and Dorothea Wagner},
+  journal={J. Graph Algorithms Appl.},
+  year={2005},
+  volume={9},
+  pages={265-275}
+}
+
+@article{Newell2011EvaluationOS,
+  title={Evaluation of SuperMAG auroral electrojet indices as indicators of substorms and auroral power},
+  author={Patrick T. Newell and Jesper W. Gjerloev},
+  journal={Journal of Geophysical Research},
+  year={2011},
+  volume={116}
+}
+
+@article{Newell2011SubstormAM,
+  title={Substorm and magnetosphere characteristic scales inferred from the SuperMAG auroral electrojet indices},
+  author={Patrick T. Newell and Jesper W. Gjerloev},
+  journal={Journal of Geophysical Research},
+  year={2011},
+  volume={116}
+}
+
+@article{Newell2014LocalGI,
+  title={Local geomagnetic indices and the prediction of auroral power},
+  author={Patrick T. Newell and Jesper Gjerloev},
+  journal={Journal of Geophysical Research: Space Physics},
+  year={2014},
+  volume={119},
+  pages={9790 - 9803}
+}
+
+@article{Leger2015InflightPO,
+  title={In-flight performance of the Absolute Scalar Magnetometer vector mode on board the Swarm satellites},
+  author={Jean-Michel Leger and Thomas Jager and F Bertrand and Gauthier Hulot and L. Brocco and Pierre Vigneron and Xavier Lalanne and A. Chulliat and Isabelle Fratter},
+  journal={Earth, Planets and Space},
+  year={2015},
+  volume={67},
+  pages={1-12}
+}
+
+@article{Anderson1972MoreID,
+  title={More is different.},
+  author={Philip W. Anderson},
+  journal={Science},
+  year={1972},
+  volume={177 4047},
+  pages={
+          393-6
+        }
+}
+
+@book{nersessian2022,
+    author = {Nancy J. Nersessian},
+    title = {Interdisciplinarity in the Making: {M}odels and Methods in Frontier Science},
+    year={2022},
+    publisher = {{MIT Press}}
+}
+
+@inproceedings{krakauer_parallax,
+    author={David Krakauer},
+    title={Beyond Borders: New Complexity Economics},
+    conference={Parallax: Newsletter of the Santa Fe Institute},
+    year={2019},
+    issue={Fall},
+    url={https://sfi-edu.s3.amazonaws.com/sfi-edu/production/uploads/publication/2019/10/22/SFI-Parallax-Fall-2019.pdf}
+}
+
+@article{Hobson2018RethinkingAS,
+  title={Rethinking animal social complexity measures with the help of complex systems concepts},
+  author={Elizabeth A. Hobson and Vanessa Ferdinand and Artemy Kolchinsky and Joshua Garland},
+  journal={Animal Behaviour},
+  year={2018},
+  volume={155},
+  pages={287-296}
+}
+
+
+@article{Riley2012OnTP,
+  title={On the probability of occurrence of extreme space weather events},
+  author={Pete Riley},
+  journal={Space Weather},
+  year={2012},
+  volume={10},
+  url={https://api.semanticscholar.org/CorpusID:17729668}
+}
+
+@article{Clauset2007PowerLawDI,
+  title={Power-Law Distributions in Empirical Data},
+  author={Aaron Clauset and Cosma Rohilla Shalizi and Mark E. J. Newman},
+  journal={SIAM Rev.},
+  year={2007},
+  volume={51},
+  pages={661-703},
+  url={https://api.semanticscholar.org/CorpusID:9155618}
+}
+
+@article{Newman2004PowerLP,
+  title={Power laws, Pareto distributions and Zipf's law},
+  author={Mark E. J. Newman},
+  journal={Contemporary Physics},
+  year={2004},
+  volume={46},
+  pages={323 - 351},
+  url={https://api.semanticscholar.org/CorpusID:2871747}
+}
+
+@article{glansdorff1973thermodynamic,
+  title={Thermodynamic theory of structure, stability and fluctuations},
+  author={Glansdorff, Paul and Prigogine, Ilya and Hill, Robert Nyden},
+  journal={American Journal of Physics},
+  volume={41},
+  number={1},
+  pages={147--148},
+  year={1973},
+  publisher={American Association of Physics Teachers}
+}
+
+
+@InProceedings{Wolf2004EmergenceVS,
+author="De Wolf, Tom
+and Holvoet, Tom",
+editor="Brueckner, Sven A.
+and Di Marzo Serugendo, Giovanna
+and Karageorgos, Anthony
+and Nagpal, Radhika",
+title="Emergence Versus Self-Organisation: {D}ifferent Concepts but Promising When Combined",
+booktitle="Engineering Self-Organising Systems",
+year="2005",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="1--15",
+abstract="A clear terminology is essential in every research discipline. In the context of ESOA, a lot of confusion exists about the meaning of the terms emergence and self-organisation. One of the sources of the confusion comes from the fact that a combination of both phenomena often occurs in dynamical systems. In this paper a historic overview of the use of each concept as well as a working definition, that is compatible with the historic and current meaning of the concepts, is given. Each definition is explained by supporting it with important characteristics found in the literature. We show that emergence and self-organisation each emphasise different properties of a system. Both phenomena can exist in isolation. The paper also outlines some examples of such systems and considers the combination of emergence and self-organisation as a promising approach in complex multi-agent systems.",
+isbn="978-3-540-31901-6"
+}
+
+
+
+@article{Helbing2013GloballyNR,
+  title={Globally networked risks and how to respond},
+  author={Dirk Helbing},
+  journal={Nature},
+  year={2013},
+  volume={497},
+  pages={51-59},
+  url={https://api.semanticscholar.org/CorpusID:4428023}
+}
+
+@inproceedings{Sobel2014SciencebasedRA,
+  title={Science-based risk assessments for rare events in a changing climate},
+  author={Adam H. Sobel and Michael K. Tippett and Suzana J. Camargo and C. Y. Lee and John T. Allen},
+  year={2014},
+  url={https://api.semanticscholar.org/CorpusID:133061578}
+}
+
+@INPROCEEDINGS{Sobel2022,
+       author = {{Sobel}, Adam H.},
+        title = "{The science of climate risk}",
+    booktitle = {AGU Fall Meeting Abstracts},
+         year = 2022,
+       volume = {2022},
+        month = dec,
+          eid = {A23C-01},
+        pages = {A23C-01},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2022AGUFM.A23C..01S},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@book{Wisner2004,
+    author = {Wisner, B. and Blaikie, P. and Cannon, T. and Davis, I.},
+    year = {2004},
+    title = {At Risk: {N}atural Hazards, People's Vulnerability and Disasters},
+    edition = {2},
+    publisher = {Routledge},
+    doi = {https://doi.org/10.4324/9780203714775}
+}
+
+@inbook{Wisner_Routledge_2011,
+ editor = "Ben Wisner, JC Gaillard, Ilan Kelman",
+ title = "The Routledge Handbook of Hazards and Disaster Risk Reduction",
+ booktitle = "The Routledge Handbook of Hazards and Disaster Risk Reduction",
+ publisher = "Routledge",
+ year = 2011,
+ doi = {10.4324/9780203844236},
+ URL = {https://www.routledgehandbooks.com/doi/10.4324/9780203844236}
+ }
+
+@inbook{Burgess_Routledge_2016,
+ editor = "Adam Burgess, Alberto Alemanno, Jens O. Zinn",
+ title = "Routledge Handbook of Risk Studies",
+ booktitle = "Routledge Handbook of Risk Studies",
+ publisher = "Routledge",
+ year = 2016,
+ doi = {10.4324/9781315776835},
+ URL = {https://www.routledgehandbooks.com/doi/10.4324/9781315776835}
+ }
+
+@inproceedings{Bush1945TheEF,
+  title={The Endless Frontier, Report to the President on a Program for Postwar Scientific Research},
+  author={Vannevar Bush},
+  year={1945},
+  url={https://api.semanticscholar.org/CorpusID:150699218}
+}
+
+@article{Radicchi2003DefiningAI,
+  title={Defining and identifying communities in networks.},
+  author={Filippo Radicchi and Claudio Castellano and Federico Cecconi and Vittorio Loreto and Domenico Parisi},
+  journal={Proceedings of the National Academy of Sciences of the United States of America},
+  year={2003},
+  volume={101 9},
+  pages={
+          2658-63
+        },
+  url={https://api.semanticscholar.org/CorpusID:2980810}
+}
+
+@article{Balasis2023ComplexSM,
+  title={Complex Systems Methods Characterizing Nonlinear Processes in the Near-Earth Electromagnetic Environment: Recent Advances and Open Challenges},
+  author={Georgios Balasis and Michael A. Balikhin and S. C. Chapman and Giuseppe Consolini and Ioannis A. Daglis and Reik V. Donner and J{\"u}rgen Kurths and Milan Palu{\vs} and Jakob Runge and Bruce T. Tsurutani and Dimitris Vassiliadis and Simon Wing and Jesper W. Gjerloev and Jay Robert Johnson and Massimo Materassi and Tommaso Alberti and Constantinos Papadimitriou and Pouya Manshour and Adamantia Zoe Boutsi and Mirko Stumpo},
+  journal={Space Science Reviews},
+  year={2023},
+  volume={219},
+  url={https://api.semanticscholar.org/CorpusID:259767214}
+}
+
+@article{Buldyrev2010CatastrophicCO,
+  title={Catastrophic cascade of failures in interdependent networks},
+  author={Sergey V. Buldyrev and Roni Parshani and Gerald Paul and Harry Eugene Stanley and Shlomo Havlin},
+  journal={Nature},
+  year={2009},
+  volume={464},
+  pages={1025-1028},
+  url={https://pubmed.ncbi.nlm.nih.gov/20393559/}
+}
+
+@article{Vespignani2010ComplexNT,
+  title={Complex networks: The fragility of interdependency},
+  author={Alessandro Vespignani},
+  journal={Nature},
+  year={2010},
+  volume={464},
+  pages={984-985},
+  url={https://www.nature.com/articles/464984a}
+}
+
+@article{Granovetter1978ThresholdMO,
+  title={Threshold Models of Collective Behavior},
+  author={Mark S. Granovetter},
+  journal={American Journal of Sociology},
+  year={1978},
+  volume={83},
+  pages={1420 - 1443},
+  url={https://api.semanticscholar.org/CorpusID:49314397}
+}
+
+
+@article{Smyth2019SelforganizedCI,
+  title={Self-organized criticality in geophysical turbulence},
+  author={William D. Smyth and Jonathan D. Nash and James N. Moum},
+  journal={Scientific Reports},
+  year={2019},
+  volume={9},
+  url={https://api.semanticscholar.org/CorpusID:71147340}
+}
+
+
+@article{Stanley2002SelforganizedCI,
+  title={Self-organized complexity in economics and finance},
+  author={H. Eugene Stanley and Lu{\'i}s A. Nunes Amaral and Sergey V. Buldyrev and P. Gopikrishnan and Vasiliki Plerou and Michael A. Salinger},
+  journal={Proceedings of the National Academy of Sciences of the United States of America},
+  year={2002},
+  volume={99},
+  pages={2561 - 2565},
+  url={https://api.semanticscholar.org/CorpusID:45100235}
+}
+
+@book{Galam2012SociophysicsAP,
+  title={Sociophysics: A Physicist's Modeling of Psycho-political Phenomena},
+  author={Serge Galam},
+  year={2012},
+  url={https://api.semanticscholar.org/CorpusID:260542487}
+}
+
+@article{Holland1992,
+  title={Genetic algorithms},
+  author={John H. Holland},
+  journal={Scientific American},
+  year={1992},
+  volume={267},
+  number={1},
+  pages={66--73},
+  url={hhttps://www.jstor.org/stable/24939139}
+}
+
+@book{Holland1975AdaptationIN,
+  title={Adaptation in natural and artificial systems},
+  author={John H. Holland},
+  year={1975},
+  url={https://api.semanticscholar.org/CorpusID:58781161}
+}
+
+@article{Schelling1971DynamicMO,
+  title={Dynamic models of segregation},
+  author={Thomas C. Schelling},
+  journal={Journal of Mathematical Sociology},
+  year={1971},
+  volume={1},
+  pages={143-186},
+  url={https://api.semanticscholar.org/CorpusID:120637340}
+}
+
+@book{Axelrod1997TheCO,
+    year={1997},
+    title={The Complexity of Cooperation: Agent-Based Models of Competition and Collaboration},
+    publisher = {Princeton University Press},
+    author = {Axelrod, Robert}}
+
+@article{Plant1995TheFL,
+  title={The Future Looms: Weaving Women and Cybernetics},
+  author={Sadie Plant},
+  journal={Body \& Society},
+  year={1995},
+  volume={1},
+  pages={45 - 64},
+  url={https://api.semanticscholar.org/CorpusID:143757564}
+}
+
+@book{Haraway1976CrystalsFA,
+  title={Crystals, Fabrics, and Fields: {M}etaphors of Organicism in Twentieth-Century Developmental Biology},
+  author={Donna Jeanne Haraway},
+  year={1976},
+  url={https://api.semanticscholar.org/CorpusID:82351300}
+}
+
+@book{Hayles1999,
+    title = {How We Became Posthuman: {V}irtual Bodies in Cybernetics, Literature, and Informatics},
+    author = {N. Katherine Hayles},
+    year={1999},
+    publisher={The University of Chicago Press}
+}
+
+@article{Valente1995NetworkMO,
+  title={Network models of the diffusion of innovations},
+  author={Thomas W. Valente},
+  journal={Computational \& Mathematical Organization Theory},
+  year={1995},
+  volume={2},
+  pages={163-164},
+  url={https://api.semanticscholar.org/CorpusID:9681264}
+}
+
+@article{Gonzlez2008UnderstandingIH,
+  title={Understanding individual human mobility patterns},
+  author={Marta C. Gonz{\'a}lez and C{\'e}sar A. Hidalgo and Albert-L{\'a}szl{\'o} Barab{\'a}si},
+  journal={Nature},
+  year={2008},
+  volume={453},
+  pages={779-782},
+  url={https://api.semanticscholar.org/CorpusID:4419468}
+}
+
+@article{PastorSatorras2001EpidemicDA,
+  title={Epidemic dynamics and endemic states in complex networks.},
+  author={Romualdo Pastor-Satorras and Alessandro Vespignani},
+  journal={Physical review. E, Statistical, nonlinear, and soft matter physics},
+  year={2001},
+  volume={63 6 Pt 2},
+  url={https://api.semanticscholar.org/CorpusID:16903793}
+}
+
+@inproceedings{Dutta2013OnTC,
+  title={On the Complexity of Information Spreading in Dynamic Networks},
+  author={Chinmoy Dutta and Gopal Pandurangan and Rajmohan Rajaraman and Zhifeng Sun and Emanuele Viola},
+  booktitle={ACM-SIAM Symposium on Discrete Algorithms},
+  year={2013},
+  url={https://api.semanticscholar.org/CorpusID:1233235}
+}
+
+@article{Runge2019InferringCF,
+  title={Inferring causation from time series in Earth system sciences},
+  author={Jakob Runge and Sebastian Bathiany and Erik M. Bollt and Gustau Camps-Valls and Dim Coumou and Ethan R. Deyle and Clark Glymour and Marlene Kretschmer and Miguel D. Mahecha and Jordi Mu{\~n}oz-Mar{\'i} and Egbert H. van Nes and J. Peters and Rick Quax and Markus Reichstein and Marten Scheffer and Bernhard Scholkopf and Peter Spirtes and George Sugihara and Jie Sun and Kun Zhang and Jakob Zscheischler},
+  journal={Nature Communications},
+  year={2019},
+  volume={10},
+  url={https://api.semanticscholar.org/CorpusID:189819550}
+}
+
+@article{Granger1969,
+    year={1969},
+    author={Granger, C. W. J.},
+    title={Investigating Causal Relations by Econometric Models and Cross-Spectral Methods},
+    journal={Econometrica},
+    volume={37},
+    number={3},
+    pages={424--438},
+    url={https://doi.org/10.2307/1912791}
+}
+
+@article{Cohen2023ReimaginingHA,
+  title={Reimagining Heliophysics: A bold new vision for the next decade and beyond},
+  author={Ian J. Cohen and Daniel N. Baker and Jacob Bortnik and Pontus C. Brandt and Jim Burch and Amir Caspi and G. Clark and Ofer Cohen and Craig E. Deforest and Gordon Emslie and Matina Gkioulidou and Alexa J. Halford and Aleida K. Higginson and Allison Jaynes and Kristopher G. Klein and Craig A. Kletzing and Ryan Michael McGranaghan and David Miles and Romina Nikoukar and Katariina Nykyri and Larry J. Paxton and Louise M Prockter and Harlan E. Spence and William H. Swartz and Drew L. Turner and Joseph H. Westlake and Phyllis L. Whittlesey and Michael Wiltberger},
+  journal={Vol. 55, Issue 3 (Heliophysics 2024 Decadal Whitepapers)},
+  year={2023},
+  url={https://api.semanticscholar.org/CorpusID:261100724}
+}
+
+@book{pines2018emerging,
+  title={Emerging Syntheses in Science: {P}roceedings of the Founding Workshops of the Santa Fe Institute},
+  author={Pines, D.},
+  isbn={9781947864054},
+  url={https://books.google.com/books?id=RkVLswEACAAJ},
+  year={2018},
+  publisher={SFI Press}
+}
+
+@article{Jonas2016,
+author = {Jonas, Seth and McCarron, Eoin and Murtagh, William},
+title = {SPACE WEATHER POLICY AND EFFECTS},
+journal = {INSIGHT},
+volume = {19},
+number = {4},
+pages = {20-23},
+doi = {https://doi.org/10.1002/inst.12121},
+url = {https://incose.onlinelibrary.wiley.com/doi/abs/10.1002/inst.12121},
+eprint = {https://incose.onlinelibrary.wiley.com/doi/pdf/10.1002/inst.12121},
+year = {2016}
+}
+
+@article{green2016building,
+  title={Building space weather resilience in the finance sector},
+  author={Green, LM and Deighton, Richard and Baker, Deb},
+  year={2016},
+  publisher={UCL Department of Space and Climate Physics}
+}
+
+@article{Eastwood2017,
+author = {Eastwood, J. P. and Biffis, E. and Hapgood, M. A. and Green, L. and Bisi, M. M. and Bentley, R. D. and Wicks, R. and McKinnell, L.-A. and Gibbs, M. and Burnett, C.},
+title = {The Economic Impact of Space Weather: Where Do We Stand?},
+journal = {Risk Analysis},
+volume = {37},
+number = {2},
+pages = {206-218},
+keywords = {Geomagnetic storms, power grids, space weather},
+doi = {https://doi.org/10.1111/risa.12765},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/risa.12765},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/risa.12765},
+year = {2017}
+}
+
+@article{Eastwood2018,
+author = {Eastwood, J. P. and Hapgood, M. A. and Biffis, E. and Benedetti, D. and Bisi, M. M. and Green, L. and Bentley, R. D. and Burnett, C.},
+title = {Quantifying the Economic Value of Space Weather Forecasting for Power Grids: An Exploratory Study},
+journal = {Space Weather},
+volume = {16},
+number = {12},
+pages = {2052-2067},
+keywords = {space weather, geomagnetic storm, power grids, economic analysis, physics-based modeling},
+doi = {https://doi.org/10.1029/2018SW002003},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018SW002003},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2018SW002003},
+year = {2018}
+}
+
+
+
+@article{Oughton2019,
+author = {Oughton, Edward J. and Hapgood, Mike and Richardson, Gemma S. and Beggan, Ciarán D. and Thomson, Alan W. P. and Gibbs, Mark and Burnett, Catherine and Gaunt, C. Trevor and Trichas, Markos and Dada, Rabia and Horne, Richard B.},
+title = {A Risk Assessment Framework for the Socioeconomic Impacts of Electricity Transmission Infrastructure Failure Due to Space Weather: An Application to the United Kingdom},
+journal = {Risk Analysis},
+volume = {39},
+number = {5},
+pages = {1022-1043},
+keywords = {Critical infrastructure failure, socioeconomic impact assessment, space weather},
+doi = {https://doi.org/10.1111/risa.13229},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/risa.13229},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/risa.13229},
+year = {2019}
+}
+
+
+@inbook{Sharma2012,
+author = {Sharma, A. Surjalal and Baker, Daniel N. and Bhattacharyya, Archana and Bunde, Armin and Dimri, Vijay P. and Gupta, Harsh K. and Gupta, Vijay K. and Lovejoy, Shaun and Main, Ian G. and Schertzer, Daniel and von Storch, Hans and Watkins, Nicholas W.},
+publisher = {American Geophysical Union (AGU)},
+isbn = {9781118670187},
+title = {Complexity and Extreme Events in Geosciences: An Overview},
+booktitle = {Extreme Events and Natural Hazards: The Complexity Perspective},
+chapter = {},
+pages = {1-16},
+doi = {https://doi.org/10.1029/2012GM001233},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2012GM001233},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2012GM001233},
+year = {2012},
+abstract = {Summary This chapter contains sections titled: Introduction Nonlinear Dynamics, Complexity, and Extreme Events Earth Sciences: Earthquakes and Landscape Dynamics Atmospheric and Ocean Sciences Hydrologic Science: Floods and Droughts Space Weather: Solar Activity, Magnetosphere, Ionosphere, and Societal Impacts Overarching Issues: Interdisciplinary Approach, Data, And Large-Scale Simulations Conclusion}
+}
+
+@article{Jonas_2018,
+author = {Jonas, Seth and Fronczyk, Kassandra and Pratt, Lucas M.},
+title = {A Framework to Understand Extreme Space Weather Event Probability},
+journal = {Risk Analysis},
+volume = {38},
+number = {8},
+pages = {1534-1540},
+keywords = {Event probability models, extreme events, policy framework, space weather},
+doi = {https://doi.org/10.1111/risa.12981},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/risa.12981},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/risa.12981},
+year = {2018}
+}
+
+
+
+@article{Kamide1983NotesOT,
+  title={Notes on the auroral electrojet indices},
+  author={Yohsuke Kamide and S-I. Akasofu},
+  journal={Reviews of Geophysics},
+  year={1983},
+  volume={21},
+  pages={1647-1656},
+  url={https://api.semanticscholar.org/CorpusID:128554681}
+}
+
+@article{Dakos2010SpatialCA,
+  title={Spatial correlation as leading indicator of catastrophic shifts},
+  author={Vasilis Dakos and Egbert H. van Nes and Ra{\'u}l Donangelo and Hugo Fort and Marten Scheffer},
+  journal={Theoretical Ecology},
+  year={2010},
+  volume={3},
+  pages={163-174},
+  url={https://api.semanticscholar.org/CorpusID:24803419}
+}
+
+@book{Strogatz_2018,
+    author = {Strogatz, S.H.},
+    year = {2018},
+    title = {Nonlinear dynamics and chaos with applications to physics, biology, chemistry and engineering},
+    publisher = {CRC Press}}
+
+@article{Bury2021DeepLF,
+  title={Deep learning for early warning signals of tipping points},
+  author={Thomas M. Bury and R. I. Sujith and Induja Pavithran and Marten Scheffer and Timothy M. Lenton and Madhur Anand and Chris T. Bauch},
+  journal={Proceedings of the National Academy of Sciences of the United States of America},
+  year={2021},
+  volume={118},
+  url={https://api.semanticscholar.org/CorpusID:237583501}
+}
+
+@article{Oughton_2017,
+author = {Oughton, Edward J. and Skelton, Andrew and Horne, Richard B. and Thomson, Alan W. P. and Gaunt, Charles T.},
+title = {Quantifying the daily economic impact of extreme space weather due to failure in electricity transmission infrastructure},
+journal = {Space Weather},
+volume = {15},
+number = {1},
+pages = {65-83},
+keywords = {economic impact, electricity transmission, extreme space weather},
+doi = {https://doi.org/10.1002/2016SW001491},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2016SW001491},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/2016SW001491},
+year = {2017}
+}
+
+@book{Biggs2012,
+    author={Reinette Biggs  and Maja Schl{\"u}ter and Michael L. Schoon},
+    title={Principles for Building Resilience: Sustaining Ecosystem Services in Social-Ecological Systems},
+    year={2015},
+    publisher = {ambridge University Press},
+    doi = {https://doi.org/10.1017/CBO9781316014240}}
+
+@book{Allen2023JusticeBM,
+  title={Justice by Means of Democracy},
+  author={Danielle S. Allen},
+  year={2023},
+    publisher={University of Chicago Press},
+  url={https://press.uchicago.edu/ucp/books/book/chicago/J/bo192735333.html}
+}
+
+@book{Hess_kcs,
+    author = {Charlotte Hess and Elinor Ostrom},
+    title = {Understanding Knowledge as a Commons: {F}rom Theory to Practice},
+    publisher = {The MIT Press},
+    year = {2007},
+    doi = {https://doi.org/10.7551/mitpress/6980.001.0001},
+    url = {https://doi.org/10.7551/mitpress/6980.001.0001}}
+
+@article{Prigogine1967OnSI,
+  title={On symmetry-breaking instabilities in dissipative systems},
+  author={Ilya Prigogine and Gr{\'e}goire Nicolis},
+  journal={Journal of Chemical Physics},
+  year={1967},
+  volume={46},
+  pages={3542-3550},
+  url={https://api.semanticscholar.org/CorpusID:93103054}
+}
+
+@article{Prigogine1968SymmetryBI,
+  title={Symmetry Breaking Instabilities in Dissipative Systems. II},
+  author={Ilya Prigogine and Ren{\'e} Lefever},
+  journal={Journal of Chemical Physics},
+  year={1968},
+  volume={48},
+  pages={1695-1700},
+  url={https://api.semanticscholar.org/CorpusID:119942644}
+}
+
+@article{Prigogine1971BiologicalOS,
+  title={Biological order, structure and instabilities},
+  author={Ilya Prigogine and Gr{\'e}goire Nicolis},
+  journal={Quarterly Reviews of Biophysics},
+  year={1971},
+  volume={4},
+  pages={107 - 148},
+  url={https://api.semanticscholar.org/CorpusID:39196206}
+}
+
+
+
