@@ -1,6 +1,6 @@
 # Living Reviews Article: [Complexity Heliophysics: A lived and living history of systems and complexity science in Heliophysics]
 
-A repository with software and data artifacts to accompany the Living Reviews article: "Complexity Heliophysics: A lived and living history of systems and complexity science in Heliophysics"
+A repository with software and data artifacts to accompany the Living Reviews article: "[Complexity Heliophysics: A lived and living history of systems and complexity science in Heliophysics](https://link.springer.com/article/10.1007/s11214-024-01081-2)"
 
 ## Overview
 
@@ -33,7 +33,8 @@ The bibcodes (the unique identifier assigned to journals in the ADS system) that
 ## Citation
 
 If you use the software or data artifacts included in this repository in your own work, please cite the publication as follows:
-*citation information forthcoming*
+
+__McGranaghan, R.M. Complexity Heliophysics: A Lived and Living History of Systems and Complexity Science in Heliophysics. Space Sci Rev 220, 52 (2024). https://doi.org/10.1007/s11214-024-01081-2__
 
 ## Contact
 
