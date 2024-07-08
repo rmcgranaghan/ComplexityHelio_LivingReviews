@@ -1,4 +1,4 @@
-# Living Reviews Article: [Complexity Heliophysics: A lived and living history of systems and complexity science in Heliophysics]
+# Space Sciences Reviews Article: [Complexity Heliophysics: A lived and living history of systems and complexity science in Heliophysics](https://link.springer.com/article/10.1007/s11214-024-01081-2)
 
 A repository with software and data artifacts to accompany the Living Reviews article: "[Complexity Heliophysics: A lived and living history of systems and complexity science in Heliophysics](https://link.springer.com/article/10.1007/s11214-024-01081-2)"
 
