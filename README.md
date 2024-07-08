@@ -20,6 +20,9 @@ The data artifacts included in this repository are designed to support the repro
 
 The data include: 
     A glossary of terms (the bedrock of information search, integration, and automated analyses) that define Complexity Heliophysics
+    A text file of the bibtex bibliography to support programmatically exploring the ~400 articles manually reviewed in the article
+
+The results include:
     Two formats of the automated corpus using the threshold of five matching words as detailed in the pape (a CSV and a JSON) 
 
 The results include: A new corpus of Complexity Heliophysics compiled using NLP and the new glossary. 
